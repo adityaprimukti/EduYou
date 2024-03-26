@@ -1,0 +1,158 @@
+.frame-child145 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 446px;
+  height: 544px;
+}
+.mask-group-icon21,
+.mask-group-icon22 {
+  position: absolute;
+  top: 26px;
+  left: 11.2px;
+  width: 256.8px;
+  height: 223.5px;
+  object-fit: cover;
+}
+.mask-group-icon22 {
+  top: 0;
+  left: 0;
+  width: 255.3px;
+  height: 246.8px;
+}
+.frame-child146 {
+  position: absolute;
+  top: 3px;
+  left: 19px;
+  border-radius: 5.55px;
+  background-color: var(--color-dodgerblue);
+  width: 58px;
+  height: 16px;
+}
+.eveny-howard5,
+.instructor2 {
+  position: absolute;
+  top: 3.3px;
+  left: 86px;
+  font-size: var(--font-size-xs-1);
+  font-weight: 600;
+  font-family: var(--font-nunito-sans);
+  color: var(--color-white);
+  text-align: left;
+}
+.instructor2 {
+  top: 4px;
+  left: 26px;
+  font-size: var(--font-size-3xs);
+}
+.frame-child147,
+.frame-child148 {
+  position: absolute;
+  top: 3.9px;
+  left: 0;
+  border-radius: 0.55px;
+  background-color: var(--color-white);
+  width: 1.7px;
+  height: 3.9px;
+}
+.frame-child148 {
+  top: 1.9px;
+  left: 2.8px;
+  height: 5.8px;
+}
+.frame-child149,
+.rectangle-parent28 {
+  position: absolute;
+  left: 5.5px;
+  height: 7.8px;
+}
+.frame-child149 {
+  top: 0;
+  border-radius: 0.55px;
+  background-color: var(--color-white);
+  width: 1.7px;
+}
+.rectangle-parent28 {
+  top: 7.2px;
+  width: 7.2px;
+}
+.rectangle-parent27 {
+  position: absolute;
+  top: 216.2px;
+  left: 8.1px;
+  border-radius: 5.55px;
+  background-color: var(--color-lightsteelblue);
+  backdrop-filter: blur(11.09px);
+  width: 170px;
+  height: 22px;
+}
+.mask-group-parent11 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--gradasi-oren1);
+  position: absolute;
+  top: 61px;
+  left: 98px;
+  width: 267.9px;
+  height: 249.5px;
+}
+.english-learn-english-container1,
+.kursus-pertama-gratis7,
+.rp-120000001 {
+  position: absolute;
+  letter-spacing: 0.02em;
+  line-height: 180%;
+  display: inline-block;
+}
+.english-learn-english-container1 {
+  top: 368px;
+  left: 37px;
+  color: var(--color-slategray-200);
+  width: 386px;
+}
+.kursus-pertama-gratis7,
+.rp-120000001 {
+  top: 484px;
+}
+.rp-120000001 {
+  left: 37px;
+  font-size: var(--font-size-3xl);
+  width: 174px;
+  height: 39px;
+}
+.kursus-pertama-gratis7 {
+  left: 202px;
+  color: var(--color-tomato-100);
+  width: 244px;
+  height: 36px;
+}
+.frame-child150,
+.ulasan10 {
+  position: absolute;
+  top: 317px;
+  left: 39px;
+  width: 46px;
+  height: 38px;
+}
+.ulasan10 {
+  top: 318px;
+  left: 96px;
+  font-size: var(--font-size-3xl);
+  letter-spacing: 0.02em;
+  line-height: 180%;
+  display: inline-block;
+  width: 191px;
+  height: 22px;
+}
+.group-parent10 {
+  position: absolute;
+  top: 896px;
+  left: 7px;
+  width: 446px;
+  height: 544px;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-gray-300);
+  font-family: var(--font-poppins);
+}

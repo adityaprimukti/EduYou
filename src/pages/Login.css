@@ -1,0 +1,44 @@
+.login-child {
+  position: absolute;
+  top: 223px;
+  left: 392px;
+  border-radius: var(--br-sm);
+  background: linear-gradient(0.67deg, #dfb3fe, #bc78ec 57.82%, #2d2aab);
+  box-shadow: 2px 4px 22.4px -3px rgba(0, 0, 0, 0.25);
+  width: 1112px;
+  height: 652px;
+}
+.vector1 {
+  position: absolute;
+  top: 662px;
+  left: 990px;
+  width: 32px;
+  height: 26px;
+}
+.masuk-akun {
+  position: absolute;
+  top: 342px;
+  left: calc(50% - 141px);
+  font-weight: 800;
+  display: inline-block;
+  width: 283px;
+}
+.logo-eduyou-07-41 {
+  position: absolute;
+  top: 400px;
+  left: 492px;
+  width: 338px;
+  height: 355px;
+  object-fit: cover;
+}
+.login {
+  width: 100%;
+  position: relative;
+  background-color: var(--putih);
+  height: 1080px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-21xl);
+  color: var(--putih);
+  font-family: var(--font-nunito-sans);
+}

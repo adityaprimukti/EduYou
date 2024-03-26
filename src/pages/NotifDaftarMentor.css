@@ -1,0 +1,75 @@
+.notifdaftarmentor-child {
+  position: absolute;
+  top: 91px;
+  left: 134px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  box-shadow: 2px 4px 60px rgba(41, 44, 124, 0.1);
+  width: 1675.5px;
+  height: 842px;
+}
+.pendaftaran-mentor-dikirim {
+  position: absolute;
+  top: 253px;
+  left: 401px;
+  line-height: 180%;
+}
+.lamaranmu-akan-kami {
+  margin: 0;
+}
+.lamaranmu-akan-kami-container {
+  position: absolute;
+  top: 391px;
+  left: 256px;
+  font-size: var(--font-size-31xl);
+  line-height: 180%;
+  font-family: var(--font-nunito-sans);
+  text-align: center;
+}
+.frame-child18 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 220.1px;
+  height: 80px;
+}
+.kembali {
+  position: absolute;
+  top: 13px;
+  left: 53px;
+  font-size: var(--font-size-11xl);
+  line-height: 180%;
+  font-family: var(--font-nunito-sans);
+  color: var(--color-white);
+  text-align: left;
+}
+.vector-parent3 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--gradasi-oren1);
+  position: absolute;
+  top: 792px;
+  left: 850px;
+  width: 220.1px;
+  height: 80px;
+}
+.logo-eduyou-07-21 {
+  position: absolute;
+  top: 119px;
+  left: 166px;
+  width: 144px;
+  height: 125px;
+  object-fit: cover;
+}
+.notifdaftarmentor {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-51xl);
+  color: var(--biru-tua);
+  font-family: var(--font-open-sans-hebrew);
+}

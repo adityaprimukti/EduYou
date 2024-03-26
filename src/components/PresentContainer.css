@@ -1,0 +1,81 @@
+.frame-child88,
+.present {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 793.2px;
+  height: 421.1px;
+}
+.present {
+  top: 8.9px;
+  left: 33.4px;
+  display: inline-block;
+  width: 72.2px;
+  height: 26px;
+}
+.present-wrapper {
+  position: absolute;
+  top: 340.9px;
+  left: 43.5px;
+  border-radius: 38.67px;
+  background-color: var(--color-royalblue-200);
+  box-shadow: 0 6.4px 15.47px rgba(52, 101, 225, 0.3);
+  width: 139.8px;
+  height: 44.6px;
+}
+.call {
+  position: absolute;
+  top: 8.9px;
+  left: 62.9px;
+  display: inline-block;
+  width: 38.1px;
+  height: 26px;
+}
+.phone-1-icon {
+  position: absolute;
+  top: 14.9px;
+  left: 38.8px;
+  width: 15.5px;
+  height: 14.9px;
+  overflow: hidden;
+}
+.call-parent {
+  position: absolute;
+  top: 340.9px;
+  left: 214.4px;
+  border-radius: 38.67px;
+  background-color: var(--color-crimson-100);
+  box-shadow: 0 6.4px 15.47px rgba(202, 47, 93, 0.3);
+  width: 139.8px;
+  height: 44.6px;
+}
+.frame-child89 {
+  position: absolute;
+  top: 80.3px;
+  left: 43.1px;
+  width: 233.1px;
+  height: 221.2px;
+  object-fit: cover;
+}
+.frame-child90,
+.group-parent8 {
+  position: absolute;
+  width: 793.2px;
+}
+.frame-child90 {
+  top: 2.2px;
+  left: 0;
+  border-radius: 18.83px;
+  background-color: var(--color-cornflowerblue);
+  backdrop-filter: blur(9.42px);
+  height: 418.8px;
+}
+.group-parent8 {
+  top: 186.8px;
+  left: 742.5px;
+  height: 421.1px;
+  text-align: left;
+  font-size: var(--font-size-base-8);
+  color: var(--color-white);
+  font-family: var(--font-nunito-sans);
+}

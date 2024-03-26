@@ -1,0 +1,95 @@
+.promotion-2-child,
+.promotion-2-inner,
+.promotion-2-item {
+  position: absolute;
+  top: 128px;
+  left: 1241px;
+  border-radius: var(--br-44xl);
+  background-color: var(--color-lavender-100);
+  box-shadow: 0 10px 60px rgba(38, 45, 118, 0.08);
+  width: 471px;
+  height: 263px;
+}
+.promotion-2-inner,
+.promotion-2-item {
+  left: 724px;
+  background-color: var(--color-lightgoldenrodyellow);
+}
+.promotion-2-inner {
+  left: 207px;
+  background-color: var(--color-mistyrose-200);
+}
+.guru-kami-memiliki1,
+.harga-terbaik-991,
+.secepat-kilat-guru-guru1 {
+  position: absolute;
+  top: 230px;
+  left: 252px;
+  line-height: 180%;
+  display: inline-block;
+  width: 402px;
+  height: 120px;
+}
+.harga-terbaik-991,
+.secepat-kilat-guru-guru1 {
+  top: 229px;
+  left: 757px;
+  color: var(--color-goldenrod-200);
+}
+.secepat-kilat-guru-guru1 {
+  top: 230px;
+  left: 1270px;
+  color: var(--color-steelblue);
+}
+.span2 {
+  font-family: var(--font-nunito-sans);
+}
+.div2 {
+  position: absolute;
+  top: 150px;
+  left: 266px;
+  line-height: 180%;
+  display: inline-block;
+  width: 63px;
+  height: 49px;
+  font-size: var(--font-size-11xl);
+}
+.jam3 {
+  font-size: var(--font-size-xl);
+}
+.jam4,
+.rp-102000-container1 {
+  position: absolute;
+  top: 150px;
+  left: 767px;
+  line-height: 180%;
+  display: inline-block;
+  color: var(--color-goldenrod-200);
+  width: 265px;
+  height: 49px;
+  font-size: var(--font-size-11xl);
+}
+.jam4 {
+  left: 1285px;
+  color: var(--color-steelblue);
+}
+.promotion-2,
+.promotion-2-child1 {
+  position: absolute;
+  top: 161px;
+  left: 563px;
+  width: 38px;
+  height: 38px;
+}
+.promotion-2 {
+  top: 2343px;
+  left: 0;
+  background-color: var(--color-white);
+  width: 1920px;
+  height: 519px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-indianred);
+  font-family: var(--font-nunito-sans);
+}

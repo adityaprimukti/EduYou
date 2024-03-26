@@ -1,0 +1,47 @@
+.ulasandikirim-child {
+  position: absolute;
+  top: 92px;
+  left: 129.5px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  box-shadow: 2px 4px 60px rgba(41, 44, 124, 0.1);
+  width: 1675.5px;
+  height: 842px;
+}
+.ulasan-dikirim {
+  position: absolute;
+  top: 244px;
+  left: 700px;
+  line-height: 180%;
+}
+.terimakasih-ulasanmu-sangat {
+  margin: 0;
+}
+.terimakasih-ulasanmu-sangat-container {
+  position: absolute;
+  top: 452px;
+  left: 378px;
+  font-size: var(--font-size-31xl);
+  line-height: 180%;
+  font-family: var(--font-nunito-sans);
+  text-align: center;
+}
+.logo-eduyou-07-22 {
+  position: absolute;
+  top: 119px;
+  left: 166px;
+  width: 144px;
+  height: 125px;
+  object-fit: cover;
+}
+.ulasandikirim {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-51xl);
+  color: var(--biru-tua);
+  font-family: var(--font-open-sans-hebrew);
+}

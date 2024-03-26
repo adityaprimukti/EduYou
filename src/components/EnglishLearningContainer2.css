@@ -1,0 +1,208 @@
+.mentor-child {
+  position: absolute;
+  top: 118px;
+  left: 1027px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  box-shadow: 2px 4px 60px rgba(41, 44, 124, 0.1);
+  width: 714px;
+  height: 1107px;
+}
+.learn-english-from {
+  margin: 0;
+}
+.learn-english-from-container {
+  position: absolute;
+  top: 160px;
+  left: 243px;
+  font-size: var(--font-size-31xl);
+  line-height: 180%;
+}
+.eveny-howard7 {
+  position: absolute;
+  top: 540px;
+  left: 1276px;
+  line-height: 180%;
+}
+.sesi-ke-11,
+.tentang-eveny-howard,
+.tentang-kursus-ini {
+  position: absolute;
+  top: 462px;
+  left: 243px;
+  line-height: 180%;
+}
+.sesi-ke-11,
+.tentang-kursus-ini {
+  top: 825px;
+  left: 246px;
+}
+.sesi-ke-11 {
+  top: 1100px;
+  left: 1278px;
+  color: var(--color-tomato-100);
+}
+.tarif-per-jam-container {
+  position: absolute;
+  top: 672px;
+  left: 1168px;
+  line-height: 180%;
+}
+.group-child25 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-sandybrown-400);
+  box-shadow: 0 4px 60px rgba(41, 44, 124, 0.15);
+  width: 80px;
+  height: 67.4px;
+}
+.group-child26,
+.group-child27 {
+  position: absolute;
+  transform: rotate(-179.17deg);
+}
+.group-child26 {
+  top: 33.3px;
+  left: 28.5px;
+  width: 25px;
+  height: 0;
+  display: none;
+}
+.group-child27 {
+  top: 25.8px;
+  left: 34.4px;
+  width: 12px;
+  height: 16.9px;
+}
+.ellipse-parent17 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--gradasi-oren1);
+  position: absolute;
+  top: 160.4px;
+  left: 210px;
+  width: 80px;
+  height: 67.4px;
+  transform: rotate(179.17deg);
+  transform-origin: 0 0;
+}
+.mentor-item {
+  position: absolute;
+  top: 195px;
+  left: 1236px;
+  width: 284px;
+  height: 321px;
+  object-fit: cover;
+}
+.ulasan12 {
+  position: absolute;
+  top: 0;
+  left: 41.2px;
+  letter-spacing: 0.02em;
+  line-height: 180%;
+  display: inline-block;
+  width: 160.8px;
+  height: 22px;
+}
+.frame-child171,
+.ulasan-group {
+  position: absolute;
+  top: 7px;
+  left: 0;
+  width: 28.6px;
+  height: 27px;
+}
+.ulasan-group {
+  top: 588px;
+  left: 1276px;
+  width: 202px;
+  height: 34px;
+  font-size: var(--font-size-3xl);
+  color: var(--color-gray-300);
+  font-family: var(--font-poppins);
+}
+.group-child28,
+.mentor-inner {
+  position: absolute;
+  top: 996px;
+  left: 1274px;
+  width: 220.1px;
+  height: 80px;
+}
+.group-child28 {
+  top: 0;
+  left: 0;
+}
+.join-now-icon,
+.vector-parent10 {
+  position: absolute;
+  top: 24.2px;
+  left: 49.8px;
+  width: 109.4px;
+  height: 19px;
+}
+.vector-parent10 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--gradasi-oren1);
+  top: 996px;
+  left: 1274px;
+  width: 220.1px;
+  height: 80px;
+}
+.saya-seorang-profesional {
+  position: absolute;
+  top: 532px;
+  left: 241px;
+  font-size: var(--font-size-xl);
+  letter-spacing: 0.02em;
+  line-height: 180%;
+  font-family: var(--font-poppins);
+  color: var(--color-black);
+  white-space: pre-wrap;
+  text-align: justify;
+  display: inline-block;
+  width: 701px;
+  height: 280px;
+}
+.metode-pengajaran-yang {
+  white-space: pre-wrap;
+}
+.dalam-kursus-ini-container {
+  position: absolute;
+  top: 906px;
+  left: 246px;
+  font-size: var(--font-size-xl);
+  letter-spacing: 0.02em;
+  line-height: 180%;
+  color: var(--color-black);
+  text-align: justify;
+  display: inline-block;
+  width: 701px;
+  height: 280px;
+  font-family: var(--font-poppins);
+}
+.rp-150000-3-container {
+  position: absolute;
+  top: 672px;
+  left: 1433px;
+  line-height: 180%;
+  text-align: right;
+}
+.mentor2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 1920px;
+  height: 1278px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--biru-tua);
+  font-family: var(--font-nunito-sans);
+}

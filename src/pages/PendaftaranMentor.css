@@ -1,0 +1,92 @@
+.daftar,
+.sertifikat-dan-yang {
+  position: absolute;
+  line-height: 180%;
+  display: inline-block;
+}
+.sertifikat-dan-yang {
+  top: 395px;
+  left: 1298px;
+  width: 336px;
+  height: 43px;
+}
+.daftar {
+  top: 13px;
+  left: 240px;
+  font-size: var(--font-size-11xl);
+  font-family: var(--font-nunito-sans);
+  color: var(--color-white);
+  text-align: left;
+  width: 145px;
+}
+.frame-wrapper,
+.vector-parent4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 588.1px;
+  height: 80px;
+}
+.frame-wrapper {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--gradasi-oren1);
+  top: 1589px;
+  left: 982px;
+}
+.frame-child22,
+.frame-child23,
+.frame-child24,
+.frame-child25 {
+  position: absolute;
+  top: 173.9px;
+  left: 982px;
+  border-radius: var(--br-9xs);
+  background-color: var(--color-gray-100);
+  box-shadow: 0 0 2.2px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-gainsboro-100);
+  box-sizing: border-box;
+  width: 576px;
+  height: 55.1px;
+}
+.frame-child23,
+.frame-child24,
+.frame-child25 {
+  top: 328px;
+}
+.frame-child24,
+.frame-child25 {
+  top: 485px;
+}
+.frame-child25 {
+  top: 674.3px;
+}
+.frame-parent5 {
+  position: absolute;
+  top: 104px;
+  left: 117px;
+  width: 1686px;
+  height: 1773px;
+}
+.pendaftaran-mentoring-2,
+.pendaftaranmentor {
+  background-color: var(--color-white);
+  overflow: hidden;
+}
+.pendaftaran-mentoring-2 {
+  position: absolute;
+  top: 1440px;
+  left: 0;
+  width: 1920px;
+  height: 1981px;
+}
+.pendaftaranmentor {
+  width: 100%;
+  position: relative;
+  height: 3421px;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: #f2202c;
+  font-family: var(--font-nunito-sans);
+}

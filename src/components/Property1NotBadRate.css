@@ -1,0 +1,42 @@
+.grade-icon,
+.grade-icon1,
+.grade-icon2,
+.grade-icon3,
+.grade-icon4 {
+  position: absolute;
+  height: 100%;
+  width: 13.04%;
+  top: 0;
+  right: 86.96%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.grade-icon1,
+.grade-icon2,
+.grade-icon3,
+.grade-icon4 {
+  right: 65.22%;
+  left: 21.74%;
+}
+.grade-icon2,
+.grade-icon3,
+.grade-icon4 {
+  right: 43.48%;
+  left: 43.48%;
+}
+.grade-icon3,
+.grade-icon4 {
+  right: 21.74%;
+  left: 65.22%;
+}
+.grade-icon4 {
+  right: 0;
+  left: 86.96%;
+}
+.property-1notbad-rate3 {
+  width: 184px;
+  height: 24px;
+}

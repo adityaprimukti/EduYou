@@ -1,0 +1,183 @@
+.logo-eduyou-07-23 {
+  width: 144px;
+  position: relative;
+  height: 125px;
+  object-fit: cover;
+}
+.frame-child82 {
+  width: 3px;
+  position: relative;
+  border-right: 3px solid var(--semiback);
+  box-sizing: border-box;
+  height: 59px;
+}
+.virtual-class-for {
+  width: 209px;
+  position: relative;
+  letter-spacing: 0.04em;
+  font-weight: 600;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.logo-eduyou-07-2-parent {
+  position: absolute;
+  top: 100px;
+  left: calc(50% - 243.5px);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-48xl);
+}
+.careers {
+  width: 93px;
+  letter-spacing: 0.04em;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.careers,
+.frame-child83,
+.privacy-policy,
+.terms-conditions {
+  position: relative;
+  background: linear-gradient(180deg, #fff, rgba(255, 255, 255, 0)), #fcfcff;
+}
+.frame-child83 {
+  width: 1px;
+  border-right: 1px solid var(--color-slategray-300);
+  box-sizing: border-box;
+  height: 32.1px;
+}
+.privacy-policy,
+.terms-conditions {
+  width: 160.9px;
+  letter-spacing: 0.04em;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.terms-conditions {
+  width: 229.9px;
+}
+.careers-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-xl);
+}
+.webbers-team {
+  width: 271.9px;
+  position: relative;
+  letter-spacing: 0.04em;
+  display: inline-block;
+}
+.frame-parent50 {
+  position: absolute;
+  top: 442px;
+  left: calc(50% - 281.5px);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-mini);
+}
+.english-math-recite-sing-commu {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: var(--padding-21xl);
+}
+.english-math-recite-container {
+  position: absolute;
+  top: calc(50% - 130.5px);
+  left: calc(50% - 770.5px);
+  letter-spacing: 0.04em;
+  font-weight: 600;
+  display: inline-block;
+  width: 451px;
+}
+.musical-instrumental {
+  margin-bottom: 0;
+}
+.germany-french-japan-container,
+.marketing-biologi-social-container {
+  position: absolute;
+  top: calc(50% - 130.5px);
+  left: calc(50% + 37px);
+  letter-spacing: 0.04em;
+  font-weight: 600;
+  display: inline-block;
+  width: 451px;
+}
+.germany-french-japan-container {
+  top: calc(50% - 139.5px);
+  left: calc(50% - 246px);
+  width: 492px;
+}
+.frame15,
+.frame16 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 492px;
+  height: 279px;
+  overflow: hidden;
+}
+.frame15 {
+  left: 565px;
+  width: 976px;
+}
+.english-math-recite-sing-commu-parent,
+.frame14 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1541px;
+  height: 279px;
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--color-white);
+}
+.frame14 {
+  top: 329px;
+  left: 189px;
+  height: 523px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-3xl);
+  color: var(--backstyle3);
+}
+.footer,
+.footer1,
+.frame13 {
+  position: absolute;
+  height: 952px;
+}
+.footer1 {
+  top: calc(50% - 476px);
+  left: calc(50% - 959px);
+  background: linear-gradient(175.87deg, #2d2aab, #bc78ec 67.5%, #dfb3fe);
+  width: 1919px;
+}
+.footer,
+.frame13 {
+  width: 1920px;
+  overflow: hidden;
+}
+.frame13 {
+  top: 0;
+  left: calc(50% - 960px);
+}
+.footer {
+  top: 6722px;
+  left: 0;
+  background-color: var(--color-white);
+  text-align: left;
+  font-size: var(--font-size-6xl);
+  color: var(--color-white);
+  font-family: var(--font-poppins);
+}

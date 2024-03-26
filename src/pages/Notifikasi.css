@@ -1,0 +1,172 @@
+.notifikasi-child {
+  position: absolute;
+  top: 93px;
+  left: 129px;
+  width: 81px;
+  height: 68.6px;
+  object-fit: contain;
+}
+.notifikasi1 {
+  position: absolute;
+  top: 82px;
+  left: 278px;
+  font-size: var(--font-size-31xl);
+  line-height: 180%;
+  color: var(--biru-tua);
+}
+.frame-child5,
+.frame-child6 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  box-shadow: 2px 4px 60px rgba(41, 44, 124, 0.1);
+  width: 1390.4px;
+  height: 142.2px;
+}
+.frame-child6 {
+  left: 13.5px;
+  background-color: var(--color-mistyrose-100);
+  width: 1376.9px;
+  height: 155px;
+}
+.frame-child7,
+.frame-child8,
+.rectangle-parent {
+  position: absolute;
+  top: 213px;
+  left: 265px;
+  width: 1390.4px;
+  height: 155px;
+}
+.frame-child7,
+.frame-child8 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  height: 142.2px;
+}
+.frame-child8 {
+  left: 13.5px;
+  background-color: var(--color-peachpuff);
+  box-shadow: 2px 4px 60px rgba(41, 44, 124, 0.1);
+  width: 1376.9px;
+  height: 155px;
+}
+.frame-child9,
+.vector-parent1 {
+  position: absolute;
+  top: 409px;
+  left: 265px;
+  width: 1390.4px;
+  height: 155px;
+}
+.frame-child9 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-peachpuff);
+  box-shadow: 2px 4px 60px rgba(41, 44, 124, 0.1);
+  height: 142.2px;
+}
+.frame-child11,
+.rectangle-group {
+  position: absolute;
+  top: 605px;
+  left: 272px;
+  width: 1390.4px;
+  height: 155px;
+}
+.frame-child11 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-mistyrose-100);
+  box-shadow: 2px 4px 60px rgba(41, 44, 124, 0.1);
+  height: 142.2px;
+}
+.rectangle-container,
+.rectangle-parent1 {
+  position: absolute;
+  top: 809px;
+  left: 265px;
+  width: 1390.4px;
+  height: 155px;
+}
+.rectangle-parent1 {
+  top: 1013px;
+}
+.anda-telah-terdaftar,
+.selamat-bergabung-safiraa {
+  position: absolute;
+  top: 1044px;
+  left: 341px;
+  line-height: 180%;
+}
+.anda-telah-terdaftar {
+  top: 828px;
+}
+.pembayaran-berhasil-anda,
+.segera-lakukan-pembayaran {
+  position: absolute;
+  top: 622px;
+  left: 341px;
+  line-height: 180%;
+}
+.pembayaran-berhasil-anda {
+  top: 426px;
+}
+.sesi-mu-telah {
+  top: 230px;
+  left: 341px;
+}
+.disini,
+.senin-20-maret,
+.sesi-mu-telah {
+  position: absolute;
+  line-height: 180%;
+}
+.disini {
+  top: 230px;
+  left: 1281px;
+  text-decoration: underline;
+}
+.senin-20-maret {
+  top: 1101px;
+  left: 342px;
+}
+.hari-ini-0730,
+.hari-ini-0740,
+.hari-ini-0750,
+.hari-ini-1600 {
+  position: absolute;
+  top: 887px;
+  left: 342px;
+  line-height: 180%;
+}
+.hari-ini-0740,
+.hari-ini-0750,
+.hari-ini-1600 {
+  top: 683px;
+}
+.hari-ini-0750,
+.hari-ini-1600 {
+  top: 487px;
+  left: 343px;
+}
+.hari-ini-1600 {
+  top: 291px;
+  left: 337px;
+}
+.notifikasi {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 1250px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--color-dimgray-100);
+  font-family: var(--font-nunito-sans);
+}

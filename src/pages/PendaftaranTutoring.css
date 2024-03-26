@@ -1,0 +1,206 @@
+.arrow-icon {
+  position: absolute;
+  top: 33.3px;
+  left: 28.5px;
+  width: 25px;
+  height: 0;
+  transform: rotate(-179.17deg);
+  display: none;
+}
+.group-child1,
+.vector-parent {
+  position: absolute;
+  width: 80px;
+  height: 67.4px;
+}
+.group-child1 {
+  top: 0;
+  left: 0;
+  object-fit: cover;
+  transform: rotate(-179.17deg);
+}
+.vector-parent {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--gradasi-oren1);
+  top: 160.4px;
+  left: 210px;
+  transform: rotate(179.17deg);
+  transform-origin: 0 0;
+}
+.daftarkan-diri-anda,
+.nama-lengkap {
+  position: absolute;
+  left: 914px;
+  line-height: 180%;
+}
+.daftarkan-diri-anda {
+  top: 195px;
+  font-size: var(--font-size-31xl);
+}
+.nama-lengkap {
+  top: 402px;
+  display: inline-block;
+  width: 228.9px;
+}
+.pendaftaran-tutoring-child {
+  position: absolute;
+  top: 467px;
+  left: 914px;
+  border-radius: var(--br-9xs);
+  background-color: var(--color-gray-100);
+  box-shadow: 0 0 2.2px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-gainsboro-100);
+  box-sizing: border-box;
+  width: 713px;
+  height: 92px;
+}
+.sesi {
+  position: absolute;
+  top: 765px;
+  left: 914px;
+  line-height: 180%;
+  display: inline-block;
+  width: 228.9px;
+}
+.chevron-down-wrapper {
+  position: absolute;
+  top: 830px;
+  left: 914px;
+  border-radius: var(--br-9xs);
+  background-color: var(--color-gray-100);
+  box-shadow: 0 0 2.2px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-gainsboro-100);
+  box-sizing: border-box;
+  width: 713px;
+  height: 92px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 var(--padding-mini);
+}
+.alamat {
+  position: absolute;
+  top: 939px;
+  left: 914px;
+  line-height: 180%;
+  display: inline-block;
+  width: 228.9px;
+  height: 104px;
+}
+.pendaftaran-tutoring-item {
+  position: absolute;
+  top: 1005.8px;
+  left: 914px;
+  border-radius: var(--br-9xs);
+  background-color: var(--color-gray-100);
+  box-shadow: 0 0 2.2px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-gainsboro-100);
+  box-sizing: border-box;
+  width: 713px;
+  height: 177.2px;
+}
+.no-hp {
+  position: absolute;
+  top: 583px;
+  left: 914px;
+  line-height: 180%;
+  display: inline-block;
+  width: 189px;
+}
+.pendaftaran-tutoring-inner {
+  position: absolute;
+  top: 648px;
+  left: 914px;
+  border-radius: var(--br-9xs);
+  background-color: var(--color-gray-100);
+  box-shadow: 0 0 2.2px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-gainsboro-100);
+  box-sizing: border-box;
+  width: 332px;
+  height: 92px;
+}
+.tanggal {
+  position: absolute;
+  top: 583px;
+  left: 1295px;
+  line-height: 180%;
+  display: inline-block;
+  width: 189px;
+}
+.calendar-1-icon {
+  width: 46px;
+  position: relative;
+  height: 37px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.calendar-1-wrapper {
+  position: absolute;
+  top: 648px;
+  left: 1295px;
+  border-radius: var(--br-9xs);
+  background-color: var(--color-gray-100);
+  box-shadow: 0 0 2.2px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-gainsboro-100);
+  box-sizing: border-box;
+  width: 332px;
+  height: 92px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 var(--padding-mini);
+}
+.jam {
+  font-size: var(--font-size-11xl);
+}
+.rp-150000-container {
+  position: absolute;
+  top: 286px;
+  left: 914px;
+  letter-spacing: 0.02em;
+  line-height: 180%;
+  display: inline-block;
+  font-family: var(--font-poppins);
+  color: var(--color-tomato-100);
+  width: 480px;
+  height: 106px;
+  font-size: var(--font-size-31xl);
+}
+.rectangle-icon {
+  position: absolute;
+  top: 1246px;
+  left: 1407px;
+  width: 220.1px;
+  height: 80px;
+}
+.pendaftaran-tutoring,
+.selanjutnya {
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  font-family: var(--font-nunito-sans);
+}
+.selanjutnya {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--gradasi-oren1);
+  position: absolute;
+  top: 1259px;
+  left: 1434px;
+  line-height: 180%;
+  font-weight: 700;
+  color: var(--color-white);
+  display: inline-block;
+}
+.pendaftaran-tutoring {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 1419px;
+  overflow: hidden;
+  color: var(--biru-tua);
+}

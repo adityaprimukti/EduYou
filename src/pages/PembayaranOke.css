@@ -1,0 +1,54 @@
+.pembayaran-oke-child {
+  position: absolute;
+  top: 92px;
+  left: 129.5px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  box-shadow: 2px 4px 60px rgba(41, 44, 124, 0.1);
+  width: 1675.5px;
+  height: 842px;
+}
+.pembayaran-berhasil {
+  position: absolute;
+  top: 285px;
+  left: 508px;
+  line-height: 180%;
+}
+.terimakasih-telah-menghubungi {
+  margin: 0;
+}
+.terimakasih-telah-menghubungi-container {
+  position: absolute;
+  top: 452px;
+  left: 512px;
+  font-size: var(--font-size-31xl);
+  line-height: 180%;
+  font-family: var(--font-nunito-sans);
+  text-align: center;
+}
+.bri-icon1,
+.logo-eduyou-07-2 {
+  position: absolute;
+  top: 147px;
+  left: 1330px;
+  width: 422px;
+  height: 97px;
+  object-fit: cover;
+}
+.logo-eduyou-07-2 {
+  top: 119px;
+  left: 166px;
+  width: 144px;
+  height: 125px;
+}
+.pembayaran-oke {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-51xl);
+  color: var(--biru-tua);
+  font-family: var(--font-open-sans-hebrew);
+}

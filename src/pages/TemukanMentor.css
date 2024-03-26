@@ -1,0 +1,64 @@
+.mantan-siswa-kami1 {
+  margin: 0;
+}
+.mantan-siswa-kami-container1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 180%;
+}
+.mantan-siswa-kami-memberikan-u-group {
+  position: absolute;
+  top: 70px;
+  left: 207px;
+  width: 1505px;
+  height: 1293px;
+}
+.lihat-lebih-banyak4 {
+  position: absolute;
+  top: 18.9px;
+  left: 57.1px;
+  font-size: var(--font-size-5xl);
+  letter-spacing: 0.02em;
+  line-height: 180%;
+  font-family: var(--font-nunito-sans);
+  color: var(--color-darkorange-100);
+  text-align: center;
+  display: inline-block;
+  width: 306.7px;
+  height: 42.9px;
+}
+.lihat-lebih-banyak-wrapper2 {
+  cursor: pointer;
+  border: 1px solid var(--color-darkorange-100);
+  padding: 0;
+  background-color: var(--gradasi-oren1);
+  position: absolute;
+  top: 1463px;
+  left: 749px;
+  border-radius: var(--br-61xl);
+  box-sizing: border-box;
+  width: 421px;
+  height: 79.7px;
+}
+.review-2,
+.temukanmentor {
+  background-color: var(--color-white);
+  overflow: hidden;
+}
+.review-2 {
+  position: absolute;
+  top: 2862px;
+  left: 0;
+  width: 1920px;
+  height: 1679px;
+}
+.temukanmentor {
+  width: 100%;
+  position: relative;
+  height: 4541px;
+  text-align: left;
+  font-size: var(--font-size-31xl);
+  color: var(--biru-tua);
+  font-family: var(--font-nunito-sans);
+}

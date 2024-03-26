@@ -1,0 +1,112 @@
+.group-child11 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-sandybrown-400);
+  box-shadow: 0 4px 60px rgba(41, 44, 124, 0.15);
+  width: 80px;
+  height: 67.4px;
+}
+.group-child12 {
+  position: absolute;
+  top: 33.3px;
+  left: 28.5px;
+  width: 25px;
+  height: 0;
+  transform: rotate(-179.17deg);
+  display: none;
+}
+.ellipse-parent1,
+.group-child13 {
+  position: absolute;
+  top: 25.8px;
+  left: 34.4px;
+  width: 12px;
+  height: 16.9px;
+  transform: rotate(-179.17deg);
+}
+.ellipse-parent1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--gradasi-oren1);
+  top: 160.4px;
+  left: 210px;
+  width: 80px;
+  height: 67.4px;
+  transform: rotate(179.17deg);
+  transform-origin: 0 0;
+}
+.ulasan1 {
+  position: absolute;
+  top: 82px;
+  left: 278px;
+  font-size: var(--font-size-31xl);
+  line-height: 180%;
+}
+.bagikan-pengalaman-menarikumu {
+  position: absolute;
+  top: 19px;
+  left: 58px;
+  line-height: 180%;
+  display: inline-block;
+  width: 643px;
+  height: 41px;
+}
+.bagikan-pengalaman-menarikumu-wrapper {
+  position: absolute;
+  top: 900px;
+  left: 182px;
+  border-radius: 18.39px;
+  background-color: var(--color-white);
+  box-shadow: 1.8px 3.7px 55.18px rgba(41, 44, 124, 0.1);
+  width: 1558px;
+  height: 194px;
+  color: #9fa0b0;
+}
+.bagaimana-sesi-belajar {
+  position: absolute;
+  top: 809px;
+  left: 210px;
+  line-height: 180%;
+  color: #54555b;
+}
+.eveny-howard1 {
+  position: absolute;
+  top: 306.9px;
+  left: 90.7px;
+  line-height: 180%;
+}
+.frame-child20 {
+  position: absolute;
+  top: 56px;
+  left: 61.6px;
+  width: 206.5px;
+  height: 233.5px;
+  object-fit: cover;
+}
+.eveny-howard-parent,
+.ulasan {
+  background-color: var(--color-white);
+}
+.eveny-howard-parent {
+  position: absolute;
+  top: 162px;
+  left: 792px;
+  border-radius: 12.57px;
+  box-shadow: 1.3px 2.5px 37.71px rgba(41, 44, 124, 0.1);
+  width: 335.6px;
+  height: 401px;
+  font-size: 21.8px;
+}
+.ulasan {
+  width: 100%;
+  position: relative;
+  height: 1351px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--biru-tua);
+  font-family: var(--font-nunito-sans);
+}

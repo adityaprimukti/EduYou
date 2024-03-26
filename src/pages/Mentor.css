@@ -1,0 +1,44 @@
+.lihat-lebih-banyak5 {
+  position: absolute;
+  top: 18.9px;
+  left: 57.1px;
+  font-size: var(--font-size-5xl);
+  letter-spacing: 0.02em;
+  line-height: 180%;
+  font-family: var(--font-nunito-sans);
+  color: var(--color-darkorange-100);
+  text-align: center;
+  display: inline-block;
+  width: 306.7px;
+  height: 42.9px;
+}
+.lihat-lebih-banyak-wrapper3 {
+  cursor: pointer;
+  border: 1px solid var(--color-darkorange-100);
+  padding: 0;
+  background-color: var(--gradasi-oren1);
+  position: absolute;
+  top: 2408px;
+  left: 747px;
+  border-radius: var(--br-61xl);
+  box-sizing: border-box;
+  width: 421px;
+  height: 79.7px;
+}
+.mentor,
+.review-3 {
+  background-color: var(--color-white);
+  overflow: hidden;
+}
+.review-3 {
+  position: absolute;
+  top: 1278px;
+  left: 0;
+  width: 1920px;
+  height: 2740px;
+}
+.mentor {
+  width: 100%;
+  position: relative;
+  height: 4018px;
+}

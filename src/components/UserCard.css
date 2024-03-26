@@ -1,0 +1,38 @@
+.user-round-wrapper {
+  height: 68px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.hana-nazhifah {
+  width: 217px;
+  position: relative;
+  font-size: var(--font-size-6xl);
+  line-height: 149.6%;
+  font-weight: 500;
+  font-family: var(--font-poppins);
+  color: var(--putih);
+  text-align: center;
+  display: inline-block;
+  flex-shrink: 0;
+  margin-left: -11px;
+}
+.frame-parent57,
+.frame-wrapper50 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.frame-wrapper50 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-11xs) var(--padding-6xs);
+  background-color: var(--gradasi-oren1);
+  border-radius: var(--br-39xl);
+  background: linear-gradient(180deg, #ffbe73, #ffa031);
+  box-shadow: -1px 1px 14.3px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+  flex-direction: column;
+}

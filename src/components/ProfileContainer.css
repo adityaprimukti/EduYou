@@ -1,0 +1,117 @@
+.group-child29 {
+  position: absolute;
+  top: 38.2px;
+  left: 28.5px;
+  width: 25px;
+  height: 0;
+  transform: rotate(-179.17deg);
+  display: none;
+}
+.group-child30 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-sandybrown-400);
+  box-shadow: 0 4px 60px rgba(41, 44, 124, 0.15);
+  width: 80px;
+  height: 77.6px;
+}
+.group-child31 {
+  position: absolute;
+  top: 29.6px;
+  left: 34.5px;
+  width: 12px;
+  height: 19.4px;
+  transform: rotate(-179.17deg);
+}
+.ellipse-parent18,
+.vector-parent12 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--gradasi-oren1);
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 80px;
+  height: 77.6px;
+}
+.vector-parent12 {
+  top: 134.6px;
+  left: 161.6px;
+  transform: rotate(179.17deg);
+  transform-origin: 0 0;
+}
+.profil-saya {
+  position: absolute;
+  top: 57px;
+  left: 248.6px;
+  line-height: 180%;
+}
+.mask-group-icon27 {
+  width: 342px;
+  position: relative;
+  height: 386px;
+  object-fit: cover;
+}
+.mask-group-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.edustudent,
+.shani-indira4 {
+  position: relative;
+  line-height: 180%;
+  font-weight: 600;
+}
+.edustudent {
+  font-size: var(--font-size-16xl);
+  font-weight: 500;
+  color: var(--oren);
+}
+.frame-parent64,
+.shani-indira-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.frame-parent64 {
+  justify-content: flex-start;
+  gap: var(--gap-11xs);
+}
+.frame17,
+.profil1 {
+  position: absolute;
+  overflow: hidden;
+}
+.frame17 {
+  top: 230px;
+  left: 712px;
+  border-radius: 12.57px;
+  background-color: var(--putih);
+  box-shadow: 0 1px 8.2px rgba(0, 0, 0, 0.25);
+  width: 497px;
+  height: 591px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-end;
+  padding: var(--padding-base) var(--padding-58xl);
+  box-sizing: border-box;
+  font-family: var(--font-poppins);
+}
+.profil1 {
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 1920px;
+  height: 950px;
+  text-align: left;
+  font-size: var(--font-size-31xl);
+  color: var(--biru-tua);
+  font-family: var(--font-nunito-sans);
+}

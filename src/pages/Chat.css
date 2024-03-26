@@ -1,0 +1,113 @@
+.group-child4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-sandybrown-400);
+  box-shadow: 0 4px 60px rgba(41, 44, 124, 0.15);
+  width: 80px;
+  height: 67.4px;
+}
+.ellipse-group,
+.group-child5,
+.vector-icon {
+  position: absolute;
+  transform: rotate(-179.17deg);
+}
+.group-child5 {
+  top: 33.3px;
+  left: 28.5px;
+  width: 25px;
+  height: 0;
+  display: none;
+}
+.ellipse-group,
+.vector-icon {
+  top: 25.8px;
+  left: 34.4px;
+  width: 12px;
+  height: 16.9px;
+}
+.ellipse-group {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--gradasi-oren1);
+  top: 160.4px;
+  left: 210px;
+  width: 80px;
+  height: 67.4px;
+  transform: rotate(179.17deg);
+  transform-origin: 0 0;
+}
+.chat1 {
+  position: absolute;
+  top: 82px;
+  left: 278px;
+  line-height: 180%;
+}
+.frame-child15 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  box-shadow: 2px 4px 60px rgba(41, 44, 124, 0.1);
+  width: 1390.4px;
+  height: 142.2px;
+}
+.frame-child16,
+.rectangle-parent2 {
+  position: absolute;
+  top: 0;
+  height: 155px;
+}
+.frame-child16 {
+  left: 13.5px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  box-shadow: 2px 4px 60px rgba(41, 44, 124, 0.1);
+  width: 1376.9px;
+}
+.rectangle-parent2 {
+  left: 0;
+  width: 1390.4px;
+}
+.eveny-hogward,
+.halo-eveny-nama {
+  position: absolute;
+  top: 17px;
+  left: 185px;
+  line-height: 180%;
+}
+.halo-eveny-nama {
+  top: 78px;
+}
+.mask-group-icon {
+  position: absolute;
+  top: 31px;
+  left: 55px;
+  width: 87px;
+  height: 84px;
+  object-fit: cover;
+}
+.frame-container {
+  position: absolute;
+  top: 213px;
+  left: 265px;
+  width: 1390.4px;
+  height: 155px;
+  font-size: var(--font-size-11xl);
+  color: var(--color-dimgray-100);
+}
+.chat {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-31xl);
+  color: var(--biru-tua);
+  font-family: var(--font-nunito-sans);
+}

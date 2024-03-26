@@ -1,0 +1,209 @@
+.form-pendaftaran-mentor {
+  position: absolute;
+  top: 72px;
+  left: 298px;
+  font-size: var(--font-size-31xl);
+  line-height: 180%;
+}
+.pendaftaran-mentor-child {
+  position: absolute;
+  top: 93px;
+  left: 129px;
+  width: 81px;
+  height: 68.6px;
+  object-fit: contain;
+}
+.pendaftaran-mentor-item {
+  position: absolute;
+  top: 196px;
+  left: 122px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  box-shadow: 2px 4px 60px rgba(41, 44, 124, 0.1);
+  width: 1676px;
+  height: 99px;
+}
+.isilah-form-di {
+  position: absolute;
+  top: 219px;
+  left: 627px;
+  line-height: 180%;
+  display: inline-block;
+  width: 666px;
+}
+.pendaftaran-mentor-inner {
+  position: absolute;
+  top: 329px;
+  left: 129px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  box-shadow: 2px 4px 60px rgba(41, 44, 124, 0.1);
+  width: 1676px;
+  height: 1039px;
+}
+.pendaftaran-mentor-child1 {
+  position: absolute;
+  top: 532px;
+  left: 210px;
+  border-radius: var(--br-9xs);
+  background-color: var(--color-gray-100);
+  box-shadow: 0 0 2.2px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-gainsboro-100);
+  box-sizing: border-box;
+  width: 576px;
+  height: 55px;
+}
+.judul-kursus,
+.minimal-12-kata,
+.minimal-40-kata,
+.pilih-kategori {
+  position: absolute;
+  top: 456px;
+  left: 210px;
+  line-height: 180%;
+  display: inline-block;
+  width: 335px;
+  height: 57.3px;
+}
+.judul-kursus,
+.minimal-12-kata,
+.minimal-40-kata {
+  top: 619px;
+}
+.minimal-12-kata,
+.minimal-40-kata {
+  top: 631px;
+  left: 637px;
+  font-size: var(--font-size-xl);
+  width: 163px;
+  height: 36px;
+}
+.minimal-40-kata {
+  top: 849px;
+  left: 623px;
+}
+.contoh-learn-english {
+  width: 549px;
+  position: relative;
+  line-height: 180%;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.contoh-learn-english-from-nat-wrapper,
+.pendaftaran-mentor-child2 {
+  position: absolute;
+  border-radius: var(--br-9xs);
+  background-color: var(--color-gray-100);
+  box-shadow: 0 0 2.2px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-gainsboro-100);
+  box-sizing: border-box;
+}
+.contoh-learn-english-from-nat-wrapper {
+  top: 684px;
+  left: 210px;
+  width: 576px;
+  height: 114px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 var(--padding-mini);
+  font-size: var(--font-size-xl);
+  color: var(--color-darkgray-100);
+}
+.pendaftaran-mentor-child2 {
+  top: 1013px;
+  left: 1012px;
+  width: 583px;
+  height: 55px;
+}
+.harga-kursus-per,
+.minimal-40-kata1,
+.pilih-sesi-anda {
+  position: absolute;
+  top: 950px;
+  left: 1012px;
+  line-height: 180%;
+  display: inline-block;
+  width: 437px;
+  height: 57px;
+}
+.harga-kursus-per,
+.minimal-40-kata1 {
+  top: 1106px;
+}
+.minimal-40-kata1 {
+  top: 460px;
+  left: 1425px;
+  font-size: var(--font-size-xl);
+  width: 163px;
+  height: 36px;
+}
+.tentang-anda {
+  top: 839px;
+  left: 210px;
+  width: 335px;
+  height: 57.3px;
+}
+.contoh-saya-seorang,
+.tentang-anda,
+.tentang-kursus-anda {
+  position: absolute;
+  line-height: 180%;
+  display: inline-block;
+}
+.contoh-saya-seorang {
+  top: 928px;
+  left: 228px;
+  font-size: var(--font-size-xl);
+  letter-spacing: 0.02em;
+  font-family: var(--font-poppins);
+  color: var(--color-darkgray-100);
+  white-space: pre-wrap;
+  text-align: justify;
+  width: 508px;
+  height: 280px;
+}
+.tentang-kursus-anda {
+  top: 447px;
+  left: 1019px;
+  width: 335px;
+  height: 57.3px;
+}
+.metode-pengajaran-yang1 {
+  white-space: pre-wrap;
+}
+.dalam-kursus-ini-container1 {
+  position: absolute;
+  top: 536px;
+  left: 1037px;
+  font-size: var(--font-size-xl);
+  letter-spacing: 0.02em;
+  line-height: 180%;
+  color: var(--color-darkgray-200);
+  text-align: justify;
+  display: inline-block;
+  width: 508px;
+  height: 280px;
+  font-family: var(--font-poppins);
+}
+.mentor3 {
+  position: absolute;
+  top: 352px;
+  left: 212px;
+  font-size: var(--font-size-21xl);
+  line-height: 180%;
+}
+.pendaftaran-mentor {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 1920px;
+  height: 1440px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--biru-tua);
+  font-family: var(--font-nunito-sans);
+}

@@ -1,0 +1,110 @@
+.user-round-icon2 {
+  width: 28px;
+  position: relative;
+  height: 28px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+}
+.nama-pengguna1 {
+  width: 358px;
+  position: relative;
+  font-weight: 600;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.user-round-group {
+  width: 476px;
+  border-radius: var(--br-9xs);
+  background-color: var(--color-gray-100);
+  box-shadow: 0 0 2.2px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-gainsboro-100);
+  box-sizing: border-box;
+  height: 52px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 var(--padding-mini);
+  gap: var(--gap-mini);
+}
+.vector-icon6 {
+  width: 18px;
+  position: relative;
+  height: 20px;
+}
+.vector-frame {
+  width: 26px;
+  height: 28px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-11xs);
+  box-sizing: border-box;
+}
+.kata-sandi1 {
+  width: 362px;
+  position: relative;
+  font-weight: 600;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.masuk1 {
+  position: relative;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-nunito-sans);
+  color: var(--putih);
+  text-align: left;
+}
+.masuk-container {
+  cursor: pointer;
+  border: 1px solid var(--color-gainsboro-100);
+  padding: 0 var(--padding-mini);
+  background-color: var(--oren);
+  width: 344px;
+  border-radius: var(--br-4xs);
+  box-shadow: 0 0 2.2px rgba(0, 0, 0, 0.25);
+  box-sizing: border-box;
+  height: 52px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.daftar3 {
+  position: relative;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-nunito-sans);
+  color: var(--abu-abu-hitam);
+  text-align: left;
+}
+.daftar-frame,
+.frame-parent56 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.daftar-frame {
+  cursor: pointer;
+  border: 1px solid var(--color-gainsboro-100);
+  padding: 0 var(--padding-mini);
+  background-color: var(--putih);
+  width: 344px;
+  border-radius: var(--br-4xs);
+  box-shadow: 0 0 2.2px rgba(0, 0, 0, 0.25);
+  box-sizing: border-box;
+  height: 52px;
+  flex-direction: row;
+}
+.frame-parent56 {
+  position: absolute;
+  top: 443px;
+  left: 929px;
+  flex-direction: column;
+  gap: var(--gap-xl);
+  text-align: left;
+  font-size: var(--font-size-mini);
+  color: var(--color-darkslateblue-100);
+  font-family: var(--font-nunito-sans);
+}

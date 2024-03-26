@@ -1,0 +1,171 @@
+.group-child6 {
+  position: absolute;
+  top: 33.3px;
+  left: 28.5px;
+  width: 25px;
+  height: 0;
+  transform: rotate(-179.17deg);
+  display: none;
+}
+.group-button,
+.group-child7 {
+  position: absolute;
+  width: 80px;
+  height: 67.4px;
+}
+.group-child7 {
+  top: 0;
+  left: 0;
+  object-fit: cover;
+  transform: rotate(-179.17deg);
+}
+.group-button {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--gradasi-oren1);
+  top: 160.4px;
+  left: 210px;
+  transform: rotate(179.17deg);
+  transform-origin: 0 0;
+}
+.checkout2 {
+  position: absolute;
+  top: 82px;
+  left: 278px;
+  font-size: var(--font-size-31xl);
+  line-height: 180%;
+  color: var(--biru-tua);
+}
+.no1 {
+  margin: 0;
+  white-space: pre-wrap;
+}
+.nama-no-alamat-container,
+.rp-1500001,
+.shani-indira-082333656778-container1 {
+  position: absolute;
+  top: 319px;
+  left: 289px;
+  line-height: 180%;
+  display: inline-block;
+  width: 228.9px;
+}
+.rp-1500001,
+.shani-indira-082333656778-container1 {
+  left: 475px;
+  width: 726px;
+}
+.rp-1500001 {
+  top: 172px;
+  left: 278px;
+  font-size: var(--font-size-31xl);
+  letter-spacing: 0.02em;
+  font-family: var(--font-poppins);
+  color: var(--color-tomato-100);
+  width: 480px;
+  height: 106px;
+}
+.eduyou,
+.virtual-number-account {
+  margin: 0;
+}
+.eduyou {
+  color: var(--color-darkslategray-100);
+}
+.virtual-number-account-container {
+  position: absolute;
+  top: 27px;
+  left: 46.3px;
+  line-height: 180%;
+  display: inline-block;
+  width: 622px;
+}
+.bri-icon {
+  position: absolute;
+  top: 48px;
+  left: 810.5px;
+  width: 422px;
+  height: 97px;
+  object-fit: cover;
+}
+.virtual-number-account-9200101-parent {
+  position: absolute;
+  top: 548px;
+  left: 302.5px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  box-shadow: 2px 4px 60px rgba(41, 44, 124, 0.1);
+  width: 1376.9px;
+  height: 390px;
+}
+.checkout-child {
+  position: absolute;
+  top: 277.5px;
+  left: 277.5px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1442px;
+  height: 1px;
+}
+.eveny-howard-3-container,
+.mentor-tanggal-sesi-container {
+  position: absolute;
+  top: 309px;
+  left: 1432px;
+  line-height: 180%;
+}
+.mentor-tanggal-sesi-container {
+  left: 1230px;
+}
+.invoice-0932836652738,
+.lakukan-pembayaran-sebelum {
+  position: absolute;
+  top: 181px;
+  left: 1342px;
+  line-height: 180%;
+}
+.lakukan-pembayaran-sebelum {
+  top: 979px;
+  left: 289px;
+  color: var(--color-tomato-100);
+}
+.frame-child17 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 220.1px;
+  height: 80px;
+}
+.ok {
+  position: absolute;
+  top: 13px;
+  left: 88px;
+  font-size: var(--font-size-11xl);
+  line-height: 180%;
+  font-family: var(--font-nunito-sans);
+  color: var(--color-white);
+  text-align: left;
+}
+.vector-parent2 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--gradasi-oren1);
+  position: absolute;
+  top: 966px;
+  left: 1459px;
+  width: 220.1px;
+  height: 80px;
+}
+.checkout1 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 1128px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--color-dimgray-100);
+  font-family: var(--font-nunito-sans);
+}

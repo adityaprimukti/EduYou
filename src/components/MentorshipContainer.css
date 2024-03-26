@@ -1,0 +1,105 @@
+.mask-group-icon9 {
+  width: 1472px;
+  position: relative;
+  height: 779px;
+  object-fit: cover;
+  z-index: 0;
+}
+.you-can-be {
+  width: 740px;
+  position: relative;
+  font-weight: 600;
+  display: inline-block;
+}
+.frame-child81 {
+  position: absolute;
+  top: 14.4px;
+  left: 0;
+  border-radius: 56.49px;
+  background-color: var(--color-tomato-200);
+  filter: blur(50.84px);
+  width: 222.2px;
+  height: 38.7px;
+}
+.click-here {
+  position: relative;
+  font-size: var(--font-size-11xl);
+  font-weight: 500;
+  font-family: var(--font-poppins);
+  color: var(--color-white);
+  text-align: center;
+}
+.click-here-wrapper {
+  position: absolute;
+  top: 0;
+  left: 6.4px;
+  border-radius: 56.49px;
+  background: linear-gradient(105.5deg, #f55454, #e6422b);
+  width: 196.8px;
+  height: 50.8px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-5xs) var(--padding-mid);
+  box-sizing: border-box;
+}
+.rectangle-parent9 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--gradasi-oren1);
+  width: 222.2px;
+  position: relative;
+  height: 53.1px;
+}
+.you-can-be-a-mentor-parent {
+  width: 610px;
+  margin: 0 !important;
+  top: 38.6px;
+  left: 111.8px;
+  height: 156px;
+  gap: var(--gap-3xs);
+  z-index: 0;
+}
+.frame-wrapper45,
+.mask-group-parent4,
+.you-can-be-a-mentor-parent {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.frame-wrapper45 {
+  width: 844.1px;
+  margin: 0 !important;
+  top: 256px;
+  left: 341px;
+  border-radius: var(--br-4xl);
+  background-color: var(--color-lightsteelblue);
+  backdrop-filter: blur(16px);
+  border: 1px solid var(--color-lightgray);
+  box-sizing: border-box;
+  height: 268.6px;
+  z-index: 1;
+}
+.mask-group-parent4 {
+  top: 123px;
+  left: 221px;
+  gap: var(--gap-3xs);
+}
+.inginjadimentor {
+  position: absolute;
+  top: 5698px;
+  left: 0;
+  background-color: var(--color-white);
+  width: 1920px;
+  height: 1024px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-41xl);
+  color: var(--color-white);
+  font-family: var(--font-poppins);
+}

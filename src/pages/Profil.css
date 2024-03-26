@@ -1,0 +1,319 @@
+.profil2-child {
+  position: absolute;
+  top: 112px;
+  left: 84px;
+  border-radius: var(--br-2xl);
+  background-color: var(--putih);
+  box-shadow: 0 1px 8.2px rgba(0, 0, 0, 0.25);
+  width: 832px;
+  height: 1456px;
+}
+.frame-icon {
+  width: 87px;
+  position: relative;
+  height: 90.1px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.english1,
+.eveny-hogward1 {
+  width: 148px;
+  position: relative;
+  line-height: 180%;
+  display: inline-block;
+  height: 38.6px;
+  flex-shrink: 0;
+}
+.english1 {
+  width: 67px;
+  margin-top: -5px;
+}
+.frame2,
+.frame3,
+.frame4 {
+  width: 148px;
+  height: 71.8px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame2,
+.frame3 {
+  height: 83.6px;
+  align-items: center;
+  justify-content: flex-end;
+}
+.frame2 {
+  width: 278px;
+  height: 90.1px;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 43px;
+}
+.menunggu-jadwal {
+  width: 213px;
+  position: relative;
+  line-height: 180%;
+  display: inline-block;
+  height: 38.6px;
+  flex-shrink: 0;
+}
+.frame-parent1,
+.frame5 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.frame5 {
+  width: 213px;
+  height: 56.8px;
+  overflow: hidden;
+  flex-shrink: 0;
+  flex-direction: column;
+  text-align: center;
+  color: #ed0e0e;
+}
+.frame-parent1 {
+  position: absolute;
+  top: 269px;
+  left: 136.6px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-snow);
+  box-shadow: 0 1px 8.2px rgba(183, 183, 183, 0.25);
+  width: 725.9px;
+  height: 166.2px;
+  flex-direction: row;
+  padding: 33.2392578125px 20.99871826171875px var(--padding-11xl);
+  box-sizing: border-box;
+  gap: 166px;
+  font-size: var(--font-size-xl);
+  color: var(--color-dimgray-100);
+}
+.foto-profil,
+.permintaan-kursus-saya {
+  position: absolute;
+  top: 167px;
+  left: 158.5px;
+  line-height: 180%;
+  display: inline-block;
+  width: 666px;
+}
+.foto-profil {
+  top: 0;
+  left: -0.5px;
+  width: 259px;
+}
+.foto-profil-parent {
+  width: 258px;
+  position: relative;
+  height: 272px;
+}
+.ubah-foto-profil {
+  position: relative;
+  font-size: var(--font-size-11xl);
+  line-height: 180%;
+  font-weight: 500;
+  font-family: var(--font-poppins);
+  color: var(--color-white);
+  text-align: left;
+}
+.ubah-foto-profil-wrapper {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-smi) var(--padding-23xl);
+  background-color: var(--gradasi-oren1);
+  border-radius: var(--br-5xl);
+  background: linear-gradient(180deg, #ffbe73, #ffa031);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.frame-parent2,
+.profil2-inner {
+  display: flex;
+  justify-content: flex-start;
+}
+.frame-parent2 {
+  flex-direction: row;
+  align-items: center;
+  gap: 97px;
+}
+.profil2-inner {
+  position: absolute;
+  top: 112px;
+  left: 1003px;
+  border-radius: var(--br-2xl);
+  background-color: var(--putih);
+  box-shadow: 0 1px 8.2px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: var(--padding-4xl) 73px;
+}
+.identitas-diri {
+  width: 666px;
+  position: relative;
+  line-height: 180%;
+  display: inline-block;
+}
+.username {
+  width: 228.9px;
+  font-weight: 500;
+  display: inline-block;
+}
+.shani,
+.username {
+  position: relative;
+  line-height: 180%;
+}
+.shani-wrapper,
+.username-parent {
+  display: flex;
+  justify-content: flex-start;
+}
+.shani-wrapper {
+  width: 570px;
+  background-color: var(--color-snow);
+  overflow: hidden;
+  flex-direction: row;
+  align-items: center;
+  padding: var(--padding-3xs) var(--padding-base);
+  box-sizing: border-box;
+  font-size: var(--font-size-xl);
+  color: var(--color-slategray-100);
+}
+.username-parent {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--gap-5xs);
+}
+.shani-indira-wrapper,
+.shaniindiragmailcom-wrapper {
+  width: 570px;
+  background-color: var(--color-snow);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-6xs) var(--padding-base);
+  box-sizing: border-box;
+  font-size: var(--font-size-xl);
+  color: var(--color-slategray-100);
+}
+.shaniindiragmailcom-wrapper {
+  width: 569px;
+  padding: var(--padding-3xs) var(--padding-lg);
+}
+.email-parent,
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.wrapper {
+  width: 569px;
+  background-color: var(--color-snow);
+  overflow: hidden;
+  flex-direction: row;
+  align-items: center;
+  padding: var(--padding-3xs) 20px;
+  box-sizing: border-box;
+  font-size: var(--font-size-xl);
+  color: var(--color-slategray-100);
+}
+.password {
+  width: 256px;
+  position: relative;
+  line-height: 180%;
+  font-weight: 500;
+  display: inline-block;
+}
+.frame-parent4,
+.sha-wrapper {
+  display: flex;
+  justify-content: flex-start;
+}
+.sha-wrapper {
+  width: 570px;
+  background-color: var(--color-snow);
+  overflow: hidden;
+  flex-direction: row;
+  align-items: center;
+  padding: var(--padding-3xs) 27px;
+  box-sizing: border-box;
+  font-size: var(--font-size-xl);
+  color: var(--color-slategray-100);
+}
+.frame-parent4 {
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 38px;
+}
+.frame-parent3,
+.frame6 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.frame-parent3 {
+  align-items: center;
+  gap: 35px;
+}
+.frame6 {
+  width: 626px;
+  overflow: hidden;
+  align-items: flex-start;
+  font-size: var(--font-size-11xl);
+  font-family: var(--font-poppins);
+}
+.identitas-diri-parent,
+.profil2-inner1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.identitas-diri-parent {
+  flex-direction: column;
+  gap: 85px;
+}
+.profil2-inner1 {
+  position: absolute;
+  top: 488px;
+  left: 1003px;
+  border-radius: var(--br-2xl);
+  background-color: var(--putih);
+  box-shadow: 0 1px 8.2px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+  flex-direction: row;
+  padding: var(--padding-29xl) 83px;
+}
+.profil,
+.profil2 {
+  background-color: var(--color-white);
+  overflow: hidden;
+}
+.profil2 {
+  position: absolute;
+  top: 950px;
+  left: 0;
+  width: 1920px;
+  height: 1680px;
+}
+.profil {
+  width: 100%;
+  position: relative;
+  height: 2630px;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--biru-tua);
+  font-family: var(--font-nunito-sans);
+}

@@ -1,0 +1,120 @@
+.group-child2 {
+  position: absolute;
+  top: 33.3px;
+  left: 28.5px;
+  width: 25px;
+  height: 0;
+  transform: rotate(-179.17deg);
+  display: none;
+}
+.group-child3,
+.vector-group {
+  position: absolute;
+  width: 80px;
+  height: 67.4px;
+}
+.group-child3 {
+  top: 0;
+  left: 0;
+  object-fit: cover;
+  transform: rotate(-179.17deg);
+}
+.vector-group {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--gradasi-oren1);
+  top: 154.4px;
+  left: 209px;
+  transform: rotate(179.17deg);
+  transform-origin: 0 0;
+}
+.pembayaran1 {
+  position: absolute;
+  top: 189px;
+  left: 913px;
+  line-height: 180%;
+}
+.metode-pembayaran-transfer-ba {
+  margin: 0;
+}
+.metode-pembayaran-transfer-container {
+  position: absolute;
+  top: 702px;
+  left: 913px;
+  font-size: var(--font-size-16xl);
+  line-height: 180%;
+}
+.no {
+  margin: 0;
+  white-space: pre-wrap;
+}
+.nama-no-tanggal-container {
+  top: 396px;
+  left: 913px;
+  font-size: var(--font-size-11xl);
+  color: var(--color-dimgray-100);
+  width: 157px;
+}
+.nama-no-tanggal-container,
+.rp-150000,
+.shani-indira-082333656778-container {
+  position: absolute;
+  line-height: 180%;
+  display: inline-block;
+}
+.shani-indira-082333656778-container {
+  top: 396px;
+  left: 1107px;
+  font-size: var(--font-size-11xl);
+  color: var(--color-dimgray-100);
+  width: 726px;
+}
+.rp-150000 {
+  top: 279px;
+  left: 921px;
+  letter-spacing: 0.02em;
+  font-family: var(--font-poppins);
+  color: var(--color-tomato-100);
+  width: 480px;
+  height: 106px;
+}
+.frame-child4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 220.1px;
+  height: 80px;
+}
+.checkout {
+  position: absolute;
+  top: 13px;
+  left: 41px;
+  font-size: var(--font-size-11xl);
+  line-height: 180%;
+  font-family: var(--font-nunito-sans);
+  color: var(--color-white);
+  text-align: left;
+}
+.vector-container {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--gradasi-oren1);
+  position: absolute;
+  top: 1264px;
+  left: 1467px;
+  width: 220.1px;
+  height: 80px;
+}
+.pembayaran {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 1419px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-31xl);
+  color: var(--biru-tua);
+  font-family: var(--font-nunito-sans);
+}

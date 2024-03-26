@@ -1,0 +1,267 @@
+.line-div {
+  width: 81px;
+  position: relative;
+  border-top: 1px solid var(--gradasi-oren);
+  box-sizing: border-box;
+  height: 1px;
+}
+.testimonial1 {
+  width: 207px;
+  position: relative;
+  letter-spacing: 0.2em;
+  background: linear-gradient(180deg, #ffbe73, #ffa031);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  display: inline-block;
+  height: 35px;
+  flex-shrink: 0;
+}
+.line-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-11xl);
+}
+.eduyou-has-got,
+.what-they-say {
+  width: 511px;
+  position: relative;
+  display: inline-block;
+  height: 69px;
+  flex-shrink: 0;
+}
+.eduyou-has-got {
+  width: 607px;
+  font-size: var(--font-size-7xl);
+  letter-spacing: 0.02em;
+  line-height: 160%;
+  color: var(--abu-abu);
+  height: 167px;
+}
+.frame-parent47,
+.what-they-say-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.what-they-say-parent {
+  gap: var(--gap-5xl);
+  font-size: var(--font-size-41xl);
+}
+.frame-parent47 {
+  gap: var(--gap-mini);
+}
+.are-you-too {
+  width: 564px;
+  position: relative;
+  font-size: var(--font-size-7xl);
+  letter-spacing: 0.02em;
+  line-height: 160%;
+  color: var(--abu-abu);
+  display: inline-block;
+  height: 35.4px;
+  flex-shrink: 0;
+}
+.frame-parent46 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-17xl);
+}
+.buat-pesanmu {
+  width: 259px;
+  position: relative;
+  letter-spacing: 0.02em;
+  line-height: 160%;
+  background: linear-gradient(180deg, #ffbe73, #ffa031);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.send-svgrepocom-icon {
+  width: 41px;
+  position: relative;
+  height: 41px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.buat-pesanmu-parent {
+  margin: 0 !important;
+  position: absolute;
+  top: 13.5px;
+  left: 38px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-20xl);
+  z-index: 0;
+}
+.frame-parent45,
+.frame-wrapper44 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.frame-wrapper44 {
+  width: 403px;
+  border-radius: var(--br-61xl);
+  border: 3px solid var(--gradasi-oren);
+  box-sizing: border-box;
+  height: 67.4px;
+  justify-content: flex-start;
+  position: relative;
+  font-size: var(--font-size-3xl);
+}
+.frame-parent45 {
+  position: absolute;
+  top: 283px;
+  left: 206px;
+  justify-content: center;
+  gap: var(--gap-17xl);
+}
+.mask-group-icon8 {
+  position: absolute;
+  top: 177px;
+  left: 921px;
+  width: 560px;
+  height: 591px;
+  object-fit: cover;
+}
+.testimonial-child,
+.testimonial-item {
+  position: absolute;
+  top: 556px;
+  left: 1038px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  box-shadow: 2px 4px 60px rgba(41, 44, 124, 0.1);
+  width: 680px;
+  height: 291px;
+}
+.testimonial-item {
+  border-radius: var(--br-xl) 0 0 var(--br-xl);
+  background-color: var(--oren);
+  width: 14px;
+}
+.frame-child75 {
+  width: 1px;
+  position: relative;
+  border-right: 1px solid var(--abu-abu);
+  box-sizing: border-box;
+  height: 148px;
+}
+.thank-you-so {
+  width: 534px;
+  position: relative;
+  letter-spacing: 0.02em;
+  line-height: 180%;
+  display: inline-block;
+  height: 159px;
+  flex-shrink: 0;
+}
+.line-group {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-13xl);
+}
+.gloria-rose {
+  width: 138px;
+  position: relative;
+  line-height: 180%;
+  font-weight: 600;
+  display: inline-block;
+  height: 36.2px;
+  flex-shrink: 0;
+}
+.frame-child76 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 24px;
+  height: 22.7px;
+}
+.frame-child77,
+.frame-child78,
+.frame-child79,
+.frame-child80 {
+  position: absolute;
+  top: 0;
+  left: 28.3px;
+  width: 24px;
+  height: 22.7px;
+}
+.frame-child78,
+.frame-child79,
+.frame-child80 {
+  left: 56.5px;
+}
+.frame-child79,
+.frame-child80 {
+  left: 84.8px;
+}
+.frame-child80 {
+  left: 113px;
+}
+.star-parent4 {
+  width: 137px;
+  position: relative;
+  height: 22.7px;
+}
+.reviews-at-yelp {
+  width: 157px;
+  position: relative;
+  letter-spacing: 0.02em;
+  line-height: 180%;
+  font-weight: 600;
+  display: inline-block;
+}
+.frame-parent49 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-10xs);
+  text-align: right;
+  font-size: var(--font-size-mini);
+  font-family: var(--font-nunito-sans);
+}
+.gloria-rose-parent {
+  width: 534px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  font-size: var(--font-size-5xl);
+}
+.frame-parent48 {
+  position: absolute;
+  top: 590px;
+  left: 1093px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-lgi);
+  font-size: var(--font-size-3xl);
+  color: var(--abu-abu);
+}
+.testimonial {
+  position: absolute;
+  top: 4676px;
+  left: 0;
+  background-color: var(--color-white);
+  width: 1920px;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-6xl);
+  color: var(--biru-tua);
+  font-family: var(--font-poppins);
+}

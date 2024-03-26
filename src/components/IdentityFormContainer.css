@@ -1,0 +1,202 @@
+.nik,
+.nik-parent {
+  position: absolute;
+  left: 1px;
+}
+.nik {
+  top: 155px;
+  line-height: 180%;
+  display: inline-block;
+  width: 228.9px;
+}
+.nik-parent {
+  top: 106px;
+  width: 229.9px;
+  height: 209px;
+}
+.tanggal-lahir {
+  position: absolute;
+  top: 92px;
+  left: 1px;
+  line-height: 180%;
+  display: inline-block;
+  width: 228.9px;
+}
+.frame-child185 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-9xs);
+  background-color: var(--color-gray-100);
+  box-shadow: 0 0 2.2px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-gainsboro-100);
+  box-sizing: border-box;
+  width: 576px;
+  height: 52px;
+}
+.tanggal-lahir-parent {
+  position: absolute;
+  top: 483px;
+  left: 1px;
+  width: 576px;
+  height: 146px;
+}
+.jenis-kelamin,
+.laki-laki,
+.perempuan {
+  position: absolute;
+  top: 733px;
+  left: 2px;
+  line-height: 180%;
+  display: inline-block;
+  width: 228.9px;
+}
+.laki-laki,
+.perempuan {
+  top: 0;
+  left: 0;
+}
+.perempuan {
+  left: 312px;
+}
+.laki-laki-parent {
+  position: absolute;
+  top: 799px;
+  left: 116px;
+  width: 540.9px;
+  height: 36px;
+  font-size: var(--font-size-xl);
+}
+.frame-child186 {
+  position: absolute;
+  top: 72px;
+  left: 0;
+  border-radius: var(--br-9xs);
+  background-color: var(--color-gray-100);
+  box-shadow: 0 0 2.2px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-gainsboro-100);
+  box-sizing: border-box;
+  width: 576px;
+  height: 52px;
+}
+.kota-parent {
+  position: absolute;
+  top: 891px;
+  left: 2px;
+  width: 576px;
+  height: 124px;
+}
+.alamat-domisili-parent,
+.kabupaten-parent,
+.kecamatan-parent {
+  position: absolute;
+  top: 1049px;
+  left: 2px;
+  width: 576px;
+  height: 124px;
+}
+.alamat-domisili-parent,
+.kecamatan-parent {
+  top: 1207px;
+}
+.alamat-domisili-parent {
+  top: 1364px;
+}
+.identitas-diri1,
+.tempat-lahir {
+  position: absolute;
+  top: 418px;
+  left: 2px;
+  line-height: 180%;
+  display: inline-block;
+  width: 228.9px;
+}
+.identitas-diri1 {
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-21xl);
+  width: 666px;
+}
+.frame-parent67 {
+  position: absolute;
+  top: 30px;
+  left: 102px;
+  width: 666px;
+  height: 1488px;
+}
+.frame-child190,
+.frame-child191,
+.frame-child192 {
+  position: absolute;
+  top: 224px;
+  left: 103px;
+  border-radius: var(--br-9xs);
+  background-color: var(--color-gray-100);
+  box-shadow: 0 0 2.2px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-gainsboro-100);
+  box-sizing: border-box;
+  width: 576px;
+  height: 52px;
+}
+.frame-child191,
+.frame-child192 {
+  top: 688px;
+}
+.frame-child192 {
+  top: 372px;
+}
+.frame-child193,
+.frame-child194 {
+  position: absolute;
+  top: 832px;
+  left: 163px;
+  border-radius: 50%;
+  background-color: var(--color-gainsboro-200);
+  width: 32px;
+  height: 30px;
+}
+.frame-child194 {
+  left: 477px;
+}
+.upload-ktp {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 180%;
+  display: inline-block;
+  width: 430px;
+  height: 57.3px;
+}
+.frame-child195 {
+  position: absolute;
+  top: 0;
+  left: 240px;
+  border-radius: var(--br-9xs);
+  background-color: var(--color-gray-100);
+  box-shadow: 0 0 2.2px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-gainsboro-100);
+  box-sizing: border-box;
+  width: 336px;
+  height: 55.1px;
+}
+.frame-parent66,
+.upload-ktp-parent {
+  position: absolute;
+  top: 1574px;
+  left: 104px;
+  width: 576px;
+  height: 57.3px;
+}
+.frame-parent66 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  box-shadow: 2px 4px 60px rgba(41, 44, 124, 0.1);
+  width: 832px;
+  height: 1773px;
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--biru-tua);
+  font-family: var(--font-nunito-sans);
+}

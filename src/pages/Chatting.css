@@ -1,0 +1,204 @@
+.eveny-hogward2 {
+  position: absolute;
+  top: 24px;
+  left: 353px;
+  line-height: 180%;
+  display: inline-block;
+  width: 307.2px;
+}
+.mask-group-icon1 {
+  position: absolute;
+  top: 21px;
+  left: 182px;
+  width: 120.9px;
+  height: 96px;
+  object-fit: cover;
+}
+.eveny-hogward-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  box-shadow: 2px 4px 60px rgba(41, 44, 124, 0.1);
+  width: 1913.8px;
+  height: 155px;
+  font-size: var(--font-size-11xl);
+}
+.icon {
+  position: absolute;
+  top: 38px;
+  left: 1787px;
+  width: 81px;
+  height: 80px;
+  object-fit: cover;
+}
+.chatting-child,
+.container {
+  position: absolute;
+  top: 928px;
+  left: 3px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  box-shadow: 2px 4px 60px rgba(41, 44, 124, 0.1);
+  width: 1913.8px;
+  height: 155px;
+}
+.chatting-child {
+  top: 955px;
+  left: 144px;
+  width: 1483px;
+  height: 102px;
+}
+.tulis-pesan {
+  position: absolute;
+  top: 976px;
+  left: 184px;
+  font-size: var(--font-size-11xl);
+  line-height: 180%;
+  display: inline-block;
+  width: 238px;
+  height: 35.5px;
+}
+.group-child8 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-sandybrown-400);
+  box-shadow: 0 4px 60px rgba(41, 44, 124, 0.15);
+  width: 80px;
+  height: 67.4px;
+}
+.group-child10,
+.group-child9 {
+  position: absolute;
+  transform: rotate(-179.17deg);
+}
+.group-child9 {
+  top: 33.3px;
+  left: 28.5px;
+  width: 25px;
+  height: 0;
+  display: none;
+}
+.group-child10 {
+  top: 25.8px;
+  left: 34.4px;
+  width: 12px;
+  height: 16.9px;
+}
+.ellipse-container {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--gradasi-oren1);
+  position: absolute;
+  top: 102.4px;
+  left: 143px;
+  width: 80px;
+  height: 67.4px;
+  transform: rotate(179.17deg);
+  transform-origin: 0 0;
+}
+.menit-lalu {
+  position: absolute;
+  top: 69px;
+  left: 353px;
+  line-height: 180%;
+}
+.pesawat-2-icon {
+  position: absolute;
+  top: 962px;
+  left: 1664px;
+  width: 97px;
+  height: 99px;
+  object-fit: cover;
+}
+.halo-eveny {
+  margin: 0;
+}
+.halo-eveny-nama-container {
+  position: absolute;
+  top: 41px;
+  left: 108px;
+  line-height: 180%;
+  display: inline-block;
+  width: 637px;
+  height: 310px;
+}
+.halo-eveny-nama-saya-shani-da-wrapper {
+  position: absolute;
+  top: 174px;
+  left: 938px;
+  width: 872px;
+  height: 446px;
+  background-image: url(/public/frame-262@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  color: var(--color-white);
+}
+.b,
+.haii-terimakasih-sudah-container {
+  position: absolute;
+  top: 40px;
+  left: 73px;
+  line-height: 180%;
+  display: inline-block;
+  width: 637px;
+  height: 72px;
+}
+.b {
+  top: 127px;
+  left: 539px;
+  width: 84px;
+  height: 36px;
+}
+.haii-terimakasih-sudah-menghub-parent {
+  position: absolute;
+  top: 654px;
+  left: 96px;
+  width: 727.5px;
+  height: 187px;
+  background-image: url(/public/frame-263@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.b1 {
+  position: absolute;
+  top: 4px;
+  left: 0;
+  line-height: 180%;
+  display: inline-block;
+  white-space: pre-wrap;
+  width: 84px;
+  height: 36px;
+}
+.frame-child19,
+.parent {
+  position: absolute;
+  top: 0;
+  left: 84px;
+  width: 24px;
+  height: 31px;
+}
+.parent {
+  top: 521px;
+  left: 1575px;
+  width: 108px;
+  height: 40px;
+  color: var(--color-white);
+}
+.chatting {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 1083px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-dimgray-100);
+  font-family: var(--font-nunito-sans);
+}

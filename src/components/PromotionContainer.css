@@ -1,0 +1,112 @@
+.frame-child152,
+.frame-child153 {
+  position: absolute;
+  top: 0;
+  left: 1034px;
+  border-radius: var(--br-44xl);
+  background-color: var(--color-lavender-100);
+  box-shadow: 0 10px 60px rgba(38, 45, 118, 0.08);
+  width: 471px;
+  height: 263px;
+}
+.frame-child153 {
+  left: 517px;
+  background-color: var(--color-lightgoldenrodyellow);
+}
+.frame-child154,
+.rectangle-parent29 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 263px;
+}
+.frame-child154 {
+  border-radius: var(--br-44xl);
+  background-color: var(--color-mistyrose-200);
+  box-shadow: 0 10px 60px rgba(38, 45, 118, 0.08);
+  width: 471px;
+}
+.rectangle-parent29 {
+  width: 1505px;
+}
+.guru-kami-memiliki,
+.harga-terbaik-99,
+.secepat-kilat-guru-guru {
+  position: absolute;
+  top: 102px;
+  left: 45px;
+  line-height: 180%;
+  display: inline-block;
+  width: 402px;
+  height: 120px;
+}
+.harga-terbaik-99,
+.secepat-kilat-guru-guru {
+  top: 101px;
+  left: 550px;
+  color: var(--color-goldenrod-200);
+}
+.secepat-kilat-guru-guru {
+  top: 102px;
+  left: 1063px;
+  color: var(--color-steelblue);
+}
+.span1 {
+  font-family: var(--font-nunito-sans);
+}
+.div1 {
+  position: absolute;
+  top: 22px;
+  left: 59px;
+  line-height: 180%;
+  display: inline-block;
+  width: 63px;
+  height: 49px;
+  font-size: var(--font-size-11xl);
+}
+.jam1 {
+  font-size: var(--font-size-xl);
+}
+.jam2,
+.rp-102000-container {
+  position: absolute;
+  top: 22px;
+  left: 560px;
+  line-height: 180%;
+  display: inline-block;
+  color: var(--color-goldenrod-200);
+  width: 265px;
+  height: 49px;
+  font-size: var(--font-size-11xl);
+}
+.jam2 {
+  left: 1078px;
+  color: var(--color-steelblue);
+}
+.frame-child155 {
+  position: absolute;
+  top: 33px;
+  left: 356px;
+  width: 38px;
+  height: 38px;
+}
+.frame-parent63,
+.promotion {
+  position: absolute;
+  top: 128px;
+  left: 207px;
+  width: 1505px;
+  height: 263px;
+}
+.promotion {
+  top: 3437px;
+  left: 0;
+  background-color: var(--color-white);
+  width: 1920px;
+  height: 519px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-indianred);
+  font-family: var(--font-nunito-sans);
+}

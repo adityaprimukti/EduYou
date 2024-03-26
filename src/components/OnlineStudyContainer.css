@@ -1,0 +1,278 @@
+.frame-child100,
+.mask-group-icon13 {
+  position: absolute;
+  left: calc(50% - 960.5px);
+  width: 1921px;
+}
+.frame-child100 {
+  top: 0;
+  height: 997px;
+  mix-blend-mode: normal;
+}
+.mask-group-icon13 {
+  top: 1px;
+  height: 995px;
+  object-fit: cover;
+}
+.at-eduyou-we,
+.studying-online-is {
+  width: 696px;
+  position: relative;
+  line-height: 132%;
+  display: inline-block;
+}
+.at-eduyou-we {
+  width: 639px;
+  font-size: var(--font-size-6xl);
+  line-height: 164%;
+  font-weight: 500;
+  height: 243px;
+  flex-shrink: 0;
+}
+.studying-online-is-now-much-ea-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-9xl);
+}
+.frame-child101 {
+  width: 220.1px;
+  position: relative;
+  height: 80px;
+  z-index: 0;
+}
+.join-now {
+  width: 116px;
+  position: absolute;
+  margin: 0 !important;
+  top: 17px;
+  left: 49.9px;
+  font-size: var(--font-size-6xl);
+  line-height: 180%;
+  font-weight: 600;
+  font-family: var(--font-poppins);
+  color: var(--putih);
+  text-align: left;
+  display: inline-block;
+  z-index: 1;
+}
+.frame-parent52,
+.vector-parent6 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.vector-parent6 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--gradasi-oren1);
+  width: 220px;
+  position: relative;
+  gap: var(--gap-3xs);
+}
+.frame-parent52 {
+  position: absolute;
+  top: 242px;
+  left: 149px;
+  overflow: hidden;
+  gap: var(--gap-4xl);
+  font-size: var(--font-size-36xl);
+  color: var(--putih);
+}
+.logo-eduyou-07-1 {
+  width: 83px;
+  position: relative;
+  height: 76px;
+  object-fit: cover;
+}
+.temukan-mentor {
+  position: relative;
+  font-weight: 600;
+}
+.temukan-mentor-parent {
+  box-shadow: -3px 2px 11.5px rgba(0, 0, 0, 0.3);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-29xl);
+}
+.masuk {
+  position: relative;
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  font-family: var(--font-poppins);
+  color: var(--hitam-abu);
+  text-align: left;
+}
+.masuk-wrapper {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-6xs) var(--padding-4xl);
+  background-color: var(--putih);
+  width: 152px;
+  border-radius: var(--br-25xl);
+  height: 47px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.daftar1 {
+  position: relative;
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  font-family: var(--font-poppins);
+  color: var(--putih);
+  text-align: left;
+}
+.daftar-wrapper,
+.frame-parent54 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.daftar-wrapper {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-6xs) var(--padding-4xl);
+  background-color: var(--gradasi-oren1);
+  width: 148px;
+  border-radius: var(--br-31xl);
+  background: linear-gradient(180deg, #ffbe73, #ffa031);
+  height: 47px;
+  overflow: hidden;
+  flex-shrink: 0;
+  box-sizing: border-box;
+}
+.frame-parent54 {
+  box-shadow: -1px 1px 14.3px rgba(0, 0, 0, 0.25);
+  gap: var(--gap-14xl);
+}
+.frame-parent53,
+.logo-eduyou-07-1-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-106xl);
+}
+.logo-eduyou-07-1-parent {
+  position: absolute;
+  top: 47px;
+  left: calc(50% - 881.5px);
+  width: 1772px;
+  justify-content: center;
+  gap: var(--gap-616xl);
+  color: var(--color-white);
+}
+.frame-child102,
+.frame-child103 {
+  position: absolute;
+  top: 275px;
+  left: 1615px;
+  width: 69px;
+  height: 70.6px;
+}
+.frame-child103 {
+  top: 726px;
+  left: 1739px;
+  border-radius: 50%;
+  background-color: var(--color-plum);
+  width: 59px;
+  height: 59px;
+  opacity: 0.5;
+}
+.frame-child104,
+.frame-child105,
+.frame-child106 {
+  position: absolute;
+  top: 429px;
+  left: 1725px;
+  border-radius: 50%;
+  background-color: var(--oren);
+  width: 34px;
+  height: 34px;
+  opacity: 0.5;
+}
+.frame-child105,
+.frame-child106 {
+  top: 260px;
+  left: 1170px;
+  background-color: var(--color-sandybrown-200);
+  width: 37px;
+  height: 37px;
+}
+.frame-child106 {
+  top: 581px;
+  left: 991px;
+  background-color: var(--color-deepskyblue-100);
+  width: 59px;
+  height: 59px;
+}
+.your-admission-completed {
+  position: relative;
+  font-size: var(--font-size-xl);
+}
+.congratulastions-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+.frame-wrapper49,
+.vector-icon2 {
+  position: absolute;
+  overflow: hidden;
+}
+.frame-wrapper49 {
+  top: 700px;
+  left: 920px;
+  border-radius: var(--br-9xl);
+  background-color: var(--abu-putih);
+  box-shadow: 3px 4px 6.8px rgba(67, 67, 67, 0.25);
+  height: 115px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-11xl) var(--padding-20xl);
+  box-sizing: border-box;
+  opacity: 0.9;
+}
+.vector-icon2 {
+  height: 4.05%;
+  width: 3.07%;
+  top: 28.67%;
+  right: 45.34%;
+  bottom: 67.28%;
+  left: 51.59%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.beforehome,
+.vector-parent5 {
+  position: absolute;
+  top: -1px;
+  left: 0;
+  width: 1921px;
+  height: 997px;
+}
+.beforehome {
+  top: 0;
+  background-color: var(--color-white);
+  width: 1920px;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-6xl);
+  color: var(--abu-abu);
+  font-family: var(--font-poppins);
+}

@@ -1,0 +1,110 @@
+.frame-child151 {
+  position: absolute;
+  top: 0;
+  left: 7px;
+  border-radius: 50%;
+  background-color: var(--color-mediumspringgreen-200);
+  width: 140px;
+  height: 140px;
+}
+.users-12,
+.users-2 {
+  position: absolute;
+  top: 626px;
+  left: 929px;
+  width: 55px;
+  height: 44px;
+  overflow: hidden;
+}
+.users-2 {
+  left: 1317px;
+}
+.mentormu1 {
+  background: linear-gradient(180deg, #21c8f6, #ffc73c 0.01%, #f19a1a);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.lihat-lebih-banyak7,
+.temukan-mentormu1 {
+  position: absolute;
+  top: 25px;
+  left: 81px;
+  font-size: var(--font-size-31xl);
+  line-height: 180%;
+  color: var(--biru-tua);
+}
+.lihat-lebih-banyak7 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--gradasi-oren1);
+  top: 18.9px;
+  left: 57.1px;
+  font-size: var(--font-size-5xl);
+  letter-spacing: 0.02em;
+  font-family: var(--font-nunito-sans);
+  color: var(--color-darkorange-100);
+  text-align: center;
+  display: inline-block;
+  width: 306.7px;
+  height: 42.9px;
+}
+.lihat-lebih-banyak-wrapper4 {
+  position: absolute;
+  top: 2105px;
+  left: 589px;
+  border-radius: var(--br-61xl);
+  border: 1px solid var(--color-darkorange-100);
+  box-sizing: border-box;
+  width: 421px;
+  height: 79.7px;
+}
+.ellipse-parent16 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1490px;
+  height: 2184.7px;
+}
+.write-your-keywoard2 {
+  position: absolute;
+  top: 23px;
+  left: 76px;
+  letter-spacing: 0.02em;
+  line-height: 160%;
+  display: inline-block;
+  width: 655px;
+  height: 29px;
+}
+.write-your-keywoard-wrapper {
+  position: absolute;
+  top: 162px;
+  left: 1px;
+  border-radius: var(--br-61xl);
+  border: 1px solid var(--color-darkorange-100);
+  box-sizing: border-box;
+  width: 1489px;
+  height: 92px;
+  font-size: var(--font-size-11xl);
+  color: var(--color-darkorange-100);
+}
+.frame-parent62,
+.temukan-mentor2 {
+  position: absolute;
+  top: 114px;
+  left: 215px;
+  width: 1490px;
+  height: 2184.7px;
+}
+.temukan-mentor2 {
+  top: 1024px;
+  left: 0;
+  background-color: var(--color-white);
+  width: 1920px;
+  height: 2413px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-gray-300);
+  font-family: var(--font-poppins);
+}

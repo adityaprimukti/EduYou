@@ -1,0 +1,113 @@
+.frame-child110,
+.frame-child111 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  box-shadow: 2px 4px 60px rgba(41, 44, 124, 0.1);
+  width: 683px;
+  height: 296.3px;
+}
+.frame-child111 {
+  left: 6.6px;
+  width: 676.4px;
+  height: 323px;
+}
+.rectangle-parent14 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 683px;
+  height: 323px;
+}
+.frame-child112,
+.frame-child113 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 13.21px;
+  background-color: var(--color-white);
+  box-shadow: 1.3px 2.6px 39.63px rgba(41, 44, 124, 0.1);
+  width: 267px;
+  height: 102.7px;
+}
+.frame-child113 {
+  left: 2.6px;
+  width: 264.4px;
+  height: 112px;
+}
+.rectangle-parent15,
+.rectangle-parent16 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 267px;
+  height: 112px;
+}
+.rectangle-parent16 {
+  left: 324px;
+}
+.frame-parent60,
+.frame-parent61 {
+  position: absolute;
+  top: 29px;
+  left: 33px;
+  width: 591px;
+  height: 112px;
+}
+.frame-parent61 {
+  top: 176px;
+  left: 36px;
+}
+.bca-icon,
+.bni-icon,
+.bri-icon2,
+.mandiri-icon {
+  position: absolute;
+  top: 158px;
+  left: 2px;
+  width: 215.8px;
+  height: 50.5px;
+  object-fit: cover;
+}
+.bca-icon,
+.bni-icon,
+.mandiri-icon {
+  left: 357px;
+  width: 156.7px;
+}
+.bca-icon,
+.mandiri-icon {
+  top: 0;
+  left: 0;
+  width: 215.4px;
+  height: 61.8px;
+}
+.bca-icon {
+  top: 8.7px;
+  left: 337.3px;
+  width: 197.7px;
+  height: 60.1px;
+}
+.bri-parent,
+.frame-parent59,
+.mandiri-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 535px;
+  height: 68.8px;
+}
+.bri-parent,
+.frame-parent59 {
+  top: 44px;
+  left: 65px;
+  height: 208.5px;
+}
+.frame-parent59 {
+  top: 861px;
+  left: 913px;
+  width: 683px;
+  height: 323px;
+}
