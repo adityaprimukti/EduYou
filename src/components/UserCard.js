@@ -1,6 +1,7 @@
 import { useMemo } from "react";
 import UserRoundIcon from "./UserRoundIcon";
 import "./UserCard.css";
+import { Link } from "react-router-dom";
 
 const UserCard = ({
   teacherName,
@@ -24,6 +25,7 @@ const UserCard = ({
   }, [propWidth]);
 
   return (
+    <Link to="/profil">
     <button className="frame-wrapper50" style={frameButtonStyle}>
       <div className="frame-parent57">
         <div className="user-round-wrapper">
@@ -41,6 +43,7 @@ const UserCard = ({
         </div>
       </div>
     </button>
+    </Link>
   );
 };
 

@@ -1,5 +1,6 @@
 import { useMemo } from "react";
 import "./MentorSearchContainer.css";
+import { Link } from "react-router-dom";
 
 const MentorSearchContainer = ({ frameTop, frameLeft }) => {
   const temukanMentorStyle = useMemo(() => {
@@ -436,10 +437,12 @@ const MentorSearchContainer = ({ frameTop, frameLeft }) => {
           </div>
         </div>
       </div>
+      <Link to="/temukanmentor">
       <button className="frame-parent44">
         <div className="frame-child74" />
         <div className="lihat-lebih-banyak6">Lihat lebih banyak</div>
       </button>
+      </Link>
     </div>
   );
 };

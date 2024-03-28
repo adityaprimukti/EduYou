@@ -46,7 +46,7 @@ function App() {
         title = "";
         metaDescription = "";
         break;
-      case "/registrasi":
+      case "/register":
         title = "";
         metaDescription = "";
         break;
@@ -141,7 +141,7 @@ function App() {
   return (
     <Routes>
       <Route path="/" element={<BeforeLogin />} />
-      <Route path="/registrasi" element={<Registrasi />} />
+      <Route path="/register" element={<Registrasi />} />
       <Route path="/login" element={<Login />} />
       <Route path="/kelas" element={<Kelas />} />
       <Route path="/afterlogin" element={<AfterLogin />} />

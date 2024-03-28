@@ -10,6 +10,7 @@ import GermanyContainer from "../components/GermanyContainer";
 import FrenchContainerButtons from "../components/FrenchContainerButtons";
 import MentorSearchContainer from "../components/MentorSearchContainer";
 import "./AfterLogin.css";
+import { Link } from "react-router-dom";
 
 const AfterLogin = () => {
   return (
@@ -51,9 +52,11 @@ const AfterLogin = () => {
             </button>
             <div className="users-11" />
           </div>
+          <Link to="/kelas">
           <button className="lihat-lebih-banyak-frame">
             <div className="lihat-lebih-banyak2">Lihat lebih banyak</div>
           </button>
+          </Link>
         </div>
       </div>
       <MentorSearchContainer frameTop="2048px" frameLeft="-32px" />

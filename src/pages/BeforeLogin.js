@@ -12,6 +12,7 @@ import PresentContainer from "../components/PresentContainer";
 import EndDiscussionContainer from "../components/EndDiscussionContainer";
 import OnlineStudyContainer from "../components/OnlineStudyContainer";
 import "./BeforeLogin.css";
+import { Link } from "react-router-dom";
 
 const BeforeLogin = () => {
   return (
@@ -53,9 +54,11 @@ const BeforeLogin = () => {
             </button>
             <div className="users-1" />
           </div>
+          <Link to="/kelas">
           <button className="lihat-lebih-banyak-wrapper">
             <div className="lihat-lebih-banyak">Lihat lebih banyak</div>
           </button>
+          </Link>
         </div>
       </div>
       <div className="about">

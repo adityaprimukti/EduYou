@@ -1,5 +1,6 @@
 import { useMemo } from "react";
 import "./EnglishLearningContainer.css";
+import { Link } from "react-router-dom";
 
 const EnglishLearningContainer = ({
   imageDimensionsId,
@@ -24,8 +25,19 @@ const EnglishLearningContainer = ({
     <div className="group-parent10" style={frameDiv4Style}>
       <img className="frame-child145" alt="" src={imageDimensionsId} />
       <button className="mask-group-parent11">
-        <img className="mask-group-icon21" alt="" src="/mask-group21@2x.png" />
-        <img className="mask-group-icon22" alt="" src="/mask-group22@2x.png" />
+        <Link to="/pendaftaran-tutoring">
+          <img
+            className="mask-group-icon21"
+            alt=""
+            src="/mask-group21@2x.png"
+          />
+
+          <img
+            className="mask-group-icon22"
+            alt=""
+            src="/mask-group22@2x.png"
+          />
+        </Link>
         <div className="rectangle-parent27">
           <div className="frame-child146" />
           <div className="eveny-howard5">Eveny Howard</div>

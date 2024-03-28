@@ -3,6 +3,7 @@ import MentorSearchContainer1 from "../components/MentorSearchContainer1";
 import PromotionContainer from "../components/PromotionContainer";
 import UserListContainer from "../components/UserListContainer";
 import "./SubKategori.css";
+import { Link } from "react-router-dom/dist";
 
 const SubKategori = () => {
   return (
@@ -53,9 +54,11 @@ const SubKategori = () => {
             propTop="991px"
           />
         </div>
+        <Link to="/temukanmentor">
         <button className="lihat-lebih-banyak-wrapper1">
           <div className="lihat-lebih-banyak3">Lihat lebih banyak</div>
         </button>
+        </Link>
       </div>
     </div>
   );

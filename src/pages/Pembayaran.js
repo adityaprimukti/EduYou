@@ -1,6 +1,7 @@
 import EventCardContainer from "../components/EventCardContainer";
 import ContainerWrapper from "../components/ContainerWrapper";
 import "./Pembayaran.css";
+import { Link } from "react-router-dom";
 
 const Pembayaran = () => {
   return (
@@ -35,10 +36,12 @@ const Pembayaran = () => {
       </b>
       <b className="rp-150000">{`Rp 150.000 `}</b>
       <ContainerWrapper />
+      <Link to="/pembayaranoke">
       <button className="vector-container">
         <img className="frame-child4" alt="" src="/rectangle-3.svg" />
         <b className="checkout">CheckOut</b>
       </button>
+      </Link>
     </div>
   );
 };

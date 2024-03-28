@@ -1,6 +1,7 @@
 import EventCardContainer from "../components/EventCardContainer";
 import DropdownContainer from "../components/DropdownContainer";
 import "./PendaftaranTutoring.css";
+import { Link } from "react-router-dom";
 
 const PendaftaranTutoring = () => {
   return (
@@ -29,8 +30,10 @@ const PendaftaranTutoring = () => {
         <span>{`Rp 150.000 `}</span>
         <span className="jam">/ jam</span>
       </b>
+      <Link to="/pembayaran">
       <img className="rectangle-icon" alt="" src="/rectangle-3.svg" />
       <button className="selanjutnya">Selanjutnya</button>
+      </Link>
     </div>
   );
 };

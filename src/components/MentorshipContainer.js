@@ -1,5 +1,6 @@
 import { useMemo } from "react";
 import "./MentorshipContainer.css";
+import { Link } from "react-router-dom";
 
 const MentorshipContainer = ({ propTop }) => {
   const inginJadiMentorStyle = useMemo(() => {
@@ -15,12 +16,14 @@ const MentorshipContainer = ({ propTop }) => {
         <div className="frame-wrapper45">
           <div className="you-can-be-a-mentor-parent">
             <div className="you-can-be">You can be a Mentor</div>
+            <Link to="/pendaftaranmentor">
             <button className="rectangle-parent9">
               <div className="frame-child81" />
               <div className="click-here-wrapper">
                 <div className="click-here">Click Here</div>
               </div>
             </button>
+            </Link>
           </div>
         </div>
       </div>

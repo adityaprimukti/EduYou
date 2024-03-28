@@ -2,6 +2,7 @@ import UserCard from "./UserCard";
 import DataFilterContainer from "./DataFilterContainer";
 import UserExperienceClassContainer from "./UserExperienceClassContainer";
 import "./OnlineStudyContainer1.css";
+import { Link } from "react-router-dom";
 
 const OnlineStudyContainer1 = () => {
   return (
@@ -28,10 +29,18 @@ const OnlineStudyContainer1 = () => {
         <div className="frame-parent58">
           <div className="frame-wrapper51">
             <div className="temukan-mentor-group">
+            <Link to="/temukanmentor">
               <div className="temukan-mentor1">Temukan Mentor</div>
+              </Link>
+              <Link to="/kelas">
               <div className="temukan-mentor1">Kelas</div>
+              </Link>
+              <Link to="/notifikasi">
               <div className="temukan-mentor1">Notifikasi</div>
+              </Link>
+              <Link to="/chat">
               <div className="temukan-mentor1">Chat</div>
+              </Link>
             </div>
           </div>
           <UserCard teacherName="Hana Nazhifah" />

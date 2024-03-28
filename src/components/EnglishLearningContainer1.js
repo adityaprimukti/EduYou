@@ -1,5 +1,6 @@
 import { useMemo } from "react";
 import "./EnglishLearningContainer1.css";
+import { Link } from "react-router-dom";
 
 const EnglishLearningContainer1 = ({ imageDimensions, propLeft }) => {
   const frameDiv3Style = useMemo(() => {
@@ -13,6 +14,7 @@ const EnglishLearningContainer1 = ({ imageDimensions, propLeft }) => {
       <img className="frame-child139" alt="" src={imageDimensions} />
       <div className="mask-group-parent10">
         <img className="mask-group-icon20" alt="" src="/mask-group21@2x.png" />
+        <Link to="/pembayaran">
         <button className="mask-group">
           <img
             className="portrait-teacher-giving-online-icon"
@@ -20,6 +22,7 @@ const EnglishLearningContainer1 = ({ imageDimensions, propLeft }) => {
             src="/portraitteachergivingonlineclass-1@2x.png"
           />
         </button>
+        </Link>
         <div className="rectangle-parent25">
           <div className="frame-child140" />
           <div className="eveny-howard4">Eveny Howard</div>

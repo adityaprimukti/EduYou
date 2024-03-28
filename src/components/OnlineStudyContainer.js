@@ -1,6 +1,7 @@
 import DataFilterContainer from "./DataFilterContainer";
 import UserExperienceClassContainer from "./UserExperienceClassContainer";
 import "./OnlineStudyContainer.css";
+import { Link } from "react-router-dom";
 
 const OnlineStudyContainer = () => {
   return (
@@ -33,18 +34,30 @@ const OnlineStudyContainer = () => {
           />
           <div className="frame-parent53">
             <div className="temukan-mentor-parent">
+            <Link to="/temukanmentor">
               <div className="temukan-mentor">Temukan Mentor</div>
+              </Link>
+              <Link to="/kelas">
               <div className="temukan-mentor">Kelas</div>
+              </Link>
+              <Link to="/notifikasi">
               <div className="temukan-mentor">Notifikasi</div>
+              </Link>
+              <Link to="/chat">
               <div className="temukan-mentor">Chat</div>
+              </Link>
             </div>
             <div className="frame-parent54">
+            <Link to="/login">
               <button className="masuk-wrapper">
                 <div className="masuk">Masuk</div>
               </button>
+              </Link>
+              <Link to="/register">
               <button className="daftar-wrapper">
                 <div className="daftar1">Daftar</div>
               </button>
+              </Link>
             </div>
           </div>
         </div>

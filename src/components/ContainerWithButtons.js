@@ -1,4 +1,5 @@
 import "./ContainerWithButtons.css";
+import { Link } from "react-router-dom";
 
 const ContainerWithButtons = () => {
   return (
@@ -13,12 +14,16 @@ const ContainerWithButtons = () => {
         </div>
         <div className="kata-sandi1">Kata sandi</div>
       </div>
+      <Link to="/afterlogin">
       <button className="masuk-container">
         <b className="masuk1">Masuk</b>
       </button>
+      </Link>
+      <Link to="/register">
       <button className="daftar-frame">
         <b className="daftar3">Daftar</b>
       </button>
+      </Link>
     </div>
   );
 };

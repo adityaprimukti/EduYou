@@ -1,4 +1,5 @@
 import "./DaftarContainer.css";
+import { Link } from "react-router-dom";
 
 const DaftarContainer = () => {
   return (
@@ -25,12 +26,16 @@ const DaftarContainer = () => {
         </div>
         <div className="kata-sandi">Nomor telepon</div>
       </div>
+      <Link to="/login">
       <button className="daftar-container">
         <b className="daftar2">Daftar</b>
       </button>
+      </Link>
+      <Link to="/login">
       <button className="masuk-akun-wrapper">
         <b className="masuk-akun1">Masuk akun</b>
       </button>
+      </Link>
     </div>
   );
 };
