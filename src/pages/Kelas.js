@@ -1,4 +1,5 @@
 import "./Kelas.css";
+import { Link } from "react-router-dom";
 
 const Kelas = () => {
   return (
@@ -19,10 +20,12 @@ const Kelas = () => {
           <div className="sembunyikan">Sembunyikan</div>
         </button>
       </div>
+      <Link to="/temukanmentor">
       <button className="kelas-inner" />
       <div className="english">English</div>
       <div className="kelas-child1" />
       <button className="rectangle-button" />
+      </Link>
       <div className="math">Math</div>
       <div className="kelas-child2" />
       <button className="kelas-child3" />
